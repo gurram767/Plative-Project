@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="63631" started-at="2020-01-23T15:44:59Z" finished-at="2020-01-23T15:46:03Z">
+  <suite name="softwaretestingmaterial" duration-ms="95372" started-at="2020-02-01T16:11:26Z" finished-at="2020-02-01T16:13:02Z">
     <groups>
       <group name="Regression">
-        <method signature="SMITHS_TC_Plative_Saleslogin.test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@2286778]" name="test" class="enh.web.tests.SMITHS_TC_Plative_Saleslogin"/>
+        <method signature="SMITHS_TC_Plative_Saleslogin.test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@5abca1e0]" name="test" class="enh.web.tests.SMITHS_TC_Plative_Saleslogin"/>
       </group> <!-- Regression -->
     </groups>
-    <test name="Default test" duration-ms="63631" started-at="2020-01-23T15:44:59Z" finished-at="2020-01-23T15:46:03Z">
+    <test name="testngTest" duration-ms="95372" started-at="2020-02-01T16:11:26Z" finished-at="2020-02-01T16:13:02Z">
       <class name="enh.web.tests.SMITHS_TC_Plative_Saleslogin">
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@2286778]" name="test" duration-ms="47962" started-at="2020-01-23T21:15:11Z" description="Login : Verify whether user is able to login with valid username and password." data-provider="testData" finished-at="2020-01-23T21:15:59Z">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@5abca1e0]" name="test" duration-ms="72827" started-at="2020-02-01T21:41:43Z" description="Login : Verify whether user is able to login with valid username and password." data-provider="testData" finished-at="2020-02-01T21:42:56Z">
           <params>
             <param index="0">
               <value>
@@ -27,6 +27,6 @@
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- enh.web.tests.SMITHS_TC_Plative_Saleslogin -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
 </testng-results>

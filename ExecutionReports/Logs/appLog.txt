@@ -8062,3 +8062,42 @@ Session ID: 281662fc3ac245f16e298debbd0fc3d4
 2020-01-23 21:16:04 INFO  - Comparison sheet written successfully
 2020-01-23 21:16:04 INFO  - Data to excel written successfully
 2020-01-23 21:16:04 INFO  - History File created successfully
+2020-02-01 21:41:24 INFO  - 
+============================================================================================================================
+2020-02-01 21:41:24 INFO  - softwaretestingmaterial suite started at Sat Feb 01 21:41:24 IST 2020
+2020-02-01 21:41:24 INFO  - Suite Browser: chrome
+2020-02-01 21:41:26 INFO  - +=============Database started=============+
+2020-02-01 21:41:26 INFO  - Database driver name: SQLiteJDBC
+2020-02-01 21:41:26 INFO  - Product name SQLite, Version 3.8.11
+2020-02-01 21:41:26 INFO  - +==========================================+
+
+2020-02-01 21:41:26 INFO  - Test is started with browser: chrome
+2020-02-01 21:41:43 INFO  - No data found with given key-> SMITHS_TC_Plative_Saleslogin
+2020-02-01 21:41:43 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2020-02-01 21:41:43 INFO  - Test Started: SMITHS_TC_Plative_Saleslogin
+2020-02-01 21:41:43 INFO  - Test description: 
+2020-02-01 21:41:44 INFO  - Open home page
+2020-02-01 21:41:44 INFO  - Navigate to: https://test.salesforce.com/
+2020-02-01 21:41:58 INFO  - Input Text: operations@plative.com.partial - By.id: username
+2020-02-01 21:41:58 INFO  - Input Text: Pl@t!v3! - By.id: password
+2020-02-01 21:41:59 INFO  - Click: By.id: Login
+2020-02-01 21:42:20 INFO  - Click: By.xpath: (//*[@class= 'tooltipTrigger tooltip-trigger uiTooltip'])[5]/span[1]/div/span
+2020-02-01 21:42:47 INFO  - Click: By.xpath: (//*[@class= 'profile-card-indent'])/h1/a
+2020-02-01 21:42:56 INFO  - Total Time taken in(seconds):72
+2020-02-01 21:42:57 INFO  - TestResults
+2020-02-01 21:43:01 INFO  - **********TEST FINISHED-> -PASS**********
+2020-02-01 21:43:01 INFO  - Test has ended - closing browser: chrome
+2020-02-01 21:43:01 INFO  - Closing Browsers
+2020-02-01 21:43:02 INFO  - softwaretestingmaterial suite finished at Sat Feb 01 21:43:02 IST 2020
+2020-02-01 21:43:04 INFO  - Comparison sheet written successfully
+2020-02-01 21:43:04 INFO  - Data to excel written successfully
+2020-02-01 21:43:04 INFO  - Test process has ended
+2020-02-01 21:43:04 INFO  - +=============Database started=============+
+2020-02-01 21:43:04 INFO  - Database driver name: SQLiteJDBC
+2020-02-01 21:43:04 INFO  - Product name SQLite, Version 3.8.11
+2020-02-01 21:43:04 INFO  - +==========================================+
+
+2020-02-01 21:43:04 INFO  - Comparison sheet written successfully
+2020-02-01 21:43:04 INFO  - Data to excel written successfully
+2020-02-01 21:43:05 INFO  - History File created successfully

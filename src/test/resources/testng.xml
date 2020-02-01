@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="IGP Test Automation Suite" >
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <classes>
+ <class name="enh.web.tests.SMITHS_TC_Plative_Saleslogin"/>
+ </classes>
+ </test>
+</suite>
+
+
+<!-- <suite name="IGP Test Automation Suite" >
 	<test verbose="2" name="AllScripts">
 	<classes>
 		<class name="enh.web.tests.SMITHS_TC_Plative_Saleslogin" />
@@ -7,4 +16,4 @@
 	
   </test> 
   
-</suite> <!-- Default suite -->
+</suite> Default suite -->
