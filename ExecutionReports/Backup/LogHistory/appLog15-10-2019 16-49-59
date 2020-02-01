@@ -1,0 +1,75 @@
+2019-10-15 16:46:52 INFO  - 
+============================================================================================================================
+2019-10-15 16:46:52 INFO  - Default suite suite started at Tue Oct 15 16:46:52 IST 2019
+2019-10-15 16:46:52 INFO  - Suite Browser: ie
+2019-10-15 16:46:53 INFO  - +=============Database started=============+
+2019-10-15 16:46:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:46:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:46:53 INFO  - +==========================================+
+
+2019-10-15 16:46:53 INFO  - Test is started with browser: ie
+2019-10-15 16:47:10 INFO  - Default suite suite finished at Tue Oct 15 16:47:10 IST 2019
+2019-10-15 16:47:11 INFO  - Comparison sheet written successfully
+2019-10-15 16:47:11 INFO  - Data to excel written successfully
+2019-10-15 16:47:53 INFO  - 
+============================================================================================================================
+2019-10-15 16:47:53 INFO  - Default suite suite started at Tue Oct 15 16:47:53 IST 2019
+2019-10-15 16:47:53 INFO  - Suite Browser: chrome
+2019-10-15 16:47:53 INFO  - +=============Database started=============+
+2019-10-15 16:47:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:47:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:47:53 INFO  - +==========================================+
+
+2019-10-15 16:47:53 INFO  - Test is started with browser: chrome
+2019-10-15 16:48:05 INFO  - No data found with given key-> SMITHS_TC_001
+2019-10-15 16:48:05 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 16:48:05 INFO  - Test Started: SMITHS_TC_001
+2019-10-15 16:48:05 INFO  - Test description: 
+2019-10-15 16:48:05 INFO  - Open home page
+2019-10-15 16:48:05 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 16:48:14 INFO  - Input Text: ananddev2017@gmail.com - By.xpath: //input[@type='email']
+2019-10-15 16:48:14 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 16:48:14 INFO  - Input Text: Igp@55555 - By.xpath: //input[@type='password']
+2019-10-15 16:49:23 INFO  - 
+============================================================================================================================
+2019-10-15 16:49:23 INFO  - Default suite suite started at Tue Oct 15 16:49:23 IST 2019
+2019-10-15 16:49:23 INFO  - Suite Browser: chrome
+2019-10-15 16:49:23 INFO  - +=============Database started=============+
+2019-10-15 16:49:23 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:49:23 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:49:23 INFO  - +==========================================+
+
+2019-10-15 16:49:23 INFO  - Test is started with browser: chrome
+2019-10-15 16:49:34 INFO  - No data found with given key-> SMITHS_TC_001
+2019-10-15 16:49:34 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 16:49:34 INFO  - Test Started: SMITHS_TC_001
+2019-10-15 16:49:34 INFO  - Test description: 
+2019-10-15 16:49:34 INFO  - Open home page
+2019-10-15 16:49:34 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 16:49:43 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 16:49:43 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 16:49:43 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 16:49:44 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 16:49:45 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 16:49:56 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:49:56 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:49:56 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 16:49:56 INFO  - Total Time taken in(seconds):21
+2019-10-15 16:49:56 INFO  - TestResults
+2019-10-15 16:49:58 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 16:49:58 INFO  - Test has ended - closing browser: chrome
+2019-10-15 16:49:58 INFO  - Closing Browsers
+2019-10-15 16:49:59 INFO  - Default suite suite finished at Tue Oct 15 16:49:59 IST 2019
+2019-10-15 16:49:59 INFO  - Comparison sheet written successfully
+2019-10-15 16:49:59 INFO  - Data to excel written successfully
+2019-10-15 16:49:59 INFO  - Test process has ended
+2019-10-15 16:49:59 INFO  - +=============Database started=============+
+2019-10-15 16:49:59 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:49:59 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:49:59 INFO  - +==========================================+
+
+2019-10-15 16:49:59 INFO  - Comparison sheet written successfully
+2019-10-15 16:49:59 INFO  - Data to excel written successfully
+2019-10-15 16:49:59 INFO  - History File created successfully

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63631" started-at="2020-01-23T15:44:59Z" finished-at="2020-01-23T15:46:03Z">
+    <groups>
+      <group name="Regression">
+        <method signature="SMITHS_TC_Plative_Saleslogin.test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@2286778]" name="test" class="enh.web.tests.SMITHS_TC_Plative_Saleslogin"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="63631" started-at="2020-01-23T15:44:59Z" finished-at="2020-01-23T15:46:03Z">
+      <class name="enh.web.tests.SMITHS_TC_Plative_Saleslogin">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:enh.web.tests.SMITHS_TC_Plative_Saleslogin@2286778]" name="test" duration-ms="47962" started-at="2020-01-23T21:15:11Z" description="Login : Verify whether user is able to login with valid username and password." data-provider="testData" finished-at="2020-01-23T21:15:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[operations@plative.com.partial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pl@t!v3!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- enh.web.tests.SMITHS_TC_Plative_Saleslogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

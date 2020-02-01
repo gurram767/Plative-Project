@@ -1,0 +1,2189 @@
+2019-10-15 16:46:52 INFO  - 
+============================================================================================================================
+2019-10-15 16:46:52 INFO  - Default suite suite started at Tue Oct 15 16:46:52 IST 2019
+2019-10-15 16:46:52 INFO  - Suite Browser: ie
+2019-10-15 16:46:53 INFO  - +=============Database started=============+
+2019-10-15 16:46:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:46:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:46:53 INFO  - +==========================================+
+
+2019-10-15 16:46:53 INFO  - Test is started with browser: ie
+2019-10-15 16:47:10 INFO  - Default suite suite finished at Tue Oct 15 16:47:10 IST 2019
+2019-10-15 16:47:11 INFO  - Comparison sheet written successfully
+2019-10-15 16:47:11 INFO  - Data to excel written successfully
+2019-10-15 16:47:53 INFO  - 
+============================================================================================================================
+2019-10-15 16:47:53 INFO  - Default suite suite started at Tue Oct 15 16:47:53 IST 2019
+2019-10-15 16:47:53 INFO  - Suite Browser: chrome
+2019-10-15 16:47:53 INFO  - +=============Database started=============+
+2019-10-15 16:47:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:47:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:47:53 INFO  - +==========================================+
+
+2019-10-15 16:47:53 INFO  - Test is started with browser: chrome
+2019-10-15 16:48:05 INFO  - No data found with given key-> SMITHS_TC_001
+2019-10-15 16:48:05 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 16:48:05 INFO  - Test Started: SMITHS_TC_001
+2019-10-15 16:48:05 INFO  - Test description: 
+2019-10-15 16:48:05 INFO  - Open home page
+2019-10-15 16:48:05 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 16:48:14 INFO  - Input Text: ananddev2017@gmail.com - By.xpath: //input[@type='email']
+2019-10-15 16:48:14 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 16:48:14 INFO  - Input Text: Igp@55555 - By.xpath: //input[@type='password']
+2019-10-15 16:49:23 INFO  - 
+============================================================================================================================
+2019-10-15 16:49:23 INFO  - Default suite suite started at Tue Oct 15 16:49:23 IST 2019
+2019-10-15 16:49:23 INFO  - Suite Browser: chrome
+2019-10-15 16:49:23 INFO  - +=============Database started=============+
+2019-10-15 16:49:23 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:49:23 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:49:23 INFO  - +==========================================+
+
+2019-10-15 16:49:23 INFO  - Test is started with browser: chrome
+2019-10-15 16:49:34 INFO  - No data found with given key-> SMITHS_TC_001
+2019-10-15 16:49:34 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 16:49:34 INFO  - Test Started: SMITHS_TC_001
+2019-10-15 16:49:34 INFO  - Test description: 
+2019-10-15 16:49:34 INFO  - Open home page
+2019-10-15 16:49:34 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 16:49:43 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 16:49:43 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 16:49:43 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 16:49:44 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 16:49:45 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 16:49:56 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:49:56 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:49:56 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 16:49:56 INFO  - Total Time taken in(seconds):21
+2019-10-15 16:49:56 INFO  - TestResults
+2019-10-15 16:49:58 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 16:49:58 INFO  - Test has ended - closing browser: chrome
+2019-10-15 16:49:58 INFO  - Closing Browsers
+2019-10-15 16:49:59 INFO  - Default suite suite finished at Tue Oct 15 16:49:59 IST 2019
+2019-10-15 16:49:59 INFO  - Comparison sheet written successfully
+2019-10-15 16:49:59 INFO  - Data to excel written successfully
+2019-10-15 16:49:59 INFO  - Test process has ended
+2019-10-15 16:49:59 INFO  - +=============Database started=============+
+2019-10-15 16:49:59 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:49:59 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:49:59 INFO  - +==========================================+
+
+2019-10-15 16:49:59 INFO  - Comparison sheet written successfully
+2019-10-15 16:49:59 INFO  - Data to excel written successfully
+2019-10-15 16:49:59 INFO  - History File created successfully
+2019-10-15 16:58:36 INFO  - 
+============================================================================================================================
+2019-10-15 16:58:36 INFO  - Default suite suite started at Tue Oct 15 16:58:36 IST 2019
+2019-10-15 16:58:36 INFO  - Suite Browser: chrome
+2019-10-15 16:58:36 INFO  - +=============Database started=============+
+2019-10-15 16:58:36 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 16:58:36 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 16:58:36 INFO  - +==========================================+
+
+2019-10-15 16:58:36 INFO  - Test is started with browser: chrome
+2019-10-15 16:58:47 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 16:58:47 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 16:58:47 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 16:58:47 INFO  - Test description: 
+2019-10-15 16:58:48 INFO  - Open home page
+2019-10-15 16:58:48 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 16:58:56 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 16:58:56 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 16:58:56 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 16:58:58 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 16:58:59 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 16:59:08 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:59:08 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 16:59:08 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 16:59:08 INFO  - Hover Element: By.xpath: /html/body/div[1]/div[1]/div/div[2]/div
+2019-10-15 16:59:09 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 16:59:42 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:00:33 INFO  - Open home page - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:00:33 INFO  - Expected condition failed: waiting for element to be clickable: By.id: add_btn_GSC_VW_DIM_SITE_NAME (tried for 50 second(s) with 500 milliseconds interval)
+2019-10-15 17:00:33 INFO  - Total Time taken in(seconds):106
+2019-10-15 17:00:33 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:00:34 INFO  - TestResults
+2019-10-15 17:02:04 INFO  - 
+============================================================================================================================
+2019-10-15 17:02:04 INFO  - Default suite suite started at Tue Oct 15 17:02:04 IST 2019
+2019-10-15 17:02:04 INFO  - Suite Browser: chrome
+2019-10-15 17:02:05 INFO  - +=============Database started=============+
+2019-10-15 17:02:05 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:02:05 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:02:05 INFO  - +==========================================+
+
+2019-10-15 17:02:05 INFO  - Test is started with browser: chrome
+2019-10-15 17:02:16 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:02:16 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:02:16 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:02:16 INFO  - Test description: 
+2019-10-15 17:02:17 INFO  - Open home page
+2019-10-15 17:02:17 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:02:23 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:02:24 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:02:24 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:02:25 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:02:26 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:02:36 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:02:36 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:02:37 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:02:37 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:02:38 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:02:39 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:02:39 INFO  - Input Text: Enhops123 - By.id: SITE_NAME
+2019-10-15 17:02:40 INFO  - Input Text: 987 - By.id: SITE_NAME
+2019-10-15 17:02:40 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 17:02:43 INFO  - Input Text: Enhops123 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 17:02:43 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:02:45 INFO  - Open home page - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:02:45 INFO  - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]"}
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: f989bf0d30a73dabd28c16309892059e
+*** Element info: {Using=xpath, value=//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]}
+2019-10-15 17:02:45 INFO  - Total Time taken in(seconds):28
+2019-10-15 17:02:45 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:02:45 INFO  - TestResults
+2019-10-15 17:02:46 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:02:46 INFO  - Closing Browsers
+2019-10-15 17:02:48 INFO  - Default suite suite finished at Tue Oct 15 17:02:48 IST 2019
+2019-10-15 17:02:48 INFO  - Comparison sheet written successfully
+2019-10-15 17:02:48 INFO  - Data to excel written successfully
+2019-10-15 17:02:48 INFO  - Test process has ended
+2019-10-15 17:02:48 INFO  - +=============Database started=============+
+2019-10-15 17:02:48 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:02:48 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:02:48 INFO  - +==========================================+
+
+2019-10-15 17:02:48 INFO  - Comparison sheet written successfully
+2019-10-15 17:02:48 INFO  - Data to excel written successfully
+2019-10-15 17:02:49 INFO  - History File created successfully
+2019-10-15 17:04:24 INFO  - 
+============================================================================================================================
+2019-10-15 17:04:24 INFO  - Default suite suite started at Tue Oct 15 17:04:24 IST 2019
+2019-10-15 17:04:24 INFO  - Suite Browser: chrome
+2019-10-15 17:04:25 INFO  - +=============Database started=============+
+2019-10-15 17:04:25 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:04:25 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:04:25 INFO  - +==========================================+
+
+2019-10-15 17:04:25 INFO  - Test is started with browser: chrome
+2019-10-15 17:04:36 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:04:36 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:04:36 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:04:36 INFO  - Test description: 
+2019-10-15 17:04:36 INFO  - Open home page
+2019-10-15 17:04:36 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:04:44 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:04:45 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:04:45 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:04:47 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:04:48 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:04:59 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:04:59 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:04:59 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:04:59 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:05:00 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:05:02 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:05:07 INFO  - Input Text: Enhops1234 - By.id: SITE_NAME
+2019-10-15 17:05:12 INFO  - Input Text: 67 - By.id: SITE_NAME
+2019-10-15 17:05:12 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 17:05:15 INFO  - Input Text: Enhops1234 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 17:05:16 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:05:17 INFO  - Open home page - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:05:17 INFO  - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]"}
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: a9e7bd1a035167ce5e565ac9a2a9cb0b
+*** Element info: {Using=xpath, value=//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]}
+2019-10-15 17:05:17 INFO  - Total Time taken in(seconds):41
+2019-10-15 17:05:17 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:05:18 INFO  - TestResults
+2019-10-15 17:05:19 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:05:19 INFO  - Closing Browsers
+2019-10-15 17:05:20 INFO  - Default suite suite finished at Tue Oct 15 17:05:20 IST 2019
+2019-10-15 17:05:21 INFO  - Comparison sheet written successfully
+2019-10-15 17:05:21 INFO  - Data to excel written successfully
+2019-10-15 17:05:21 INFO  - Test process has ended
+2019-10-15 17:05:21 INFO  - +=============Database started=============+
+2019-10-15 17:05:21 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:05:21 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:05:21 INFO  - +==========================================+
+
+2019-10-15 17:05:21 INFO  - Comparison sheet written successfully
+2019-10-15 17:05:21 INFO  - Data to excel written successfully
+2019-10-15 17:05:21 INFO  - History File created successfully
+2019-10-15 17:06:16 INFO  - 
+============================================================================================================================
+2019-10-15 17:06:16 INFO  - Default suite suite started at Tue Oct 15 17:06:16 IST 2019
+2019-10-15 17:06:16 INFO  - Suite Browser: chrome
+2019-10-15 17:06:17 INFO  - +=============Database started=============+
+2019-10-15 17:06:17 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:06:17 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:06:17 INFO  - +==========================================+
+
+2019-10-15 17:06:17 INFO  - Test is started with browser: chrome
+2019-10-15 17:06:28 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:06:28 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:06:28 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:06:28 INFO  - Test description: 
+2019-10-15 17:06:28 INFO  - Open home page
+2019-10-15 17:06:28 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:06:35 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:06:35 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:06:36 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:06:37 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:06:38 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:06:47 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:06:47 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:06:47 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:06:47 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:06:48 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:06:49 INFO  - Open home page - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:06:49 INFO  - unknown error: Element <span class="title">...</span> is not clickable at point (25, 359). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 13500; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.00198532; cursor: default; position: absolute;"></div>
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 1226f5c5d2cae12612067a54adc651cf
+2019-10-15 17:06:49 INFO  - Total Time taken in(seconds):21
+2019-10-15 17:06:49 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:06:50 INFO  - TestResults
+2019-10-15 17:06:51 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:06:51 INFO  - Closing Browsers
+2019-10-15 17:06:52 INFO  - Default suite suite finished at Tue Oct 15 17:06:52 IST 2019
+2019-10-15 17:06:53 INFO  - Comparison sheet written successfully
+2019-10-15 17:06:53 INFO  - Data to excel written successfully
+2019-10-15 17:06:53 INFO  - Test process has ended
+2019-10-15 17:06:53 INFO  - +=============Database started=============+
+2019-10-15 17:06:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:06:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:06:53 INFO  - +==========================================+
+
+2019-10-15 17:06:53 INFO  - Comparison sheet written successfully
+2019-10-15 17:06:53 INFO  - Data to excel written successfully
+2019-10-15 17:06:53 INFO  - History File created successfully
+2019-10-15 17:07:13 INFO  - 
+============================================================================================================================
+2019-10-15 17:07:13 INFO  - Default suite suite started at Tue Oct 15 17:07:13 IST 2019
+2019-10-15 17:07:13 INFO  - Suite Browser: chrome
+2019-10-15 17:07:14 INFO  - +=============Database started=============+
+2019-10-15 17:07:14 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:07:14 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:07:14 INFO  - +==========================================+
+
+2019-10-15 17:07:14 INFO  - Test is started with browser: chrome
+2019-10-15 17:07:25 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:07:25 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:07:25 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:07:25 INFO  - Test description: 
+2019-10-15 17:07:26 INFO  - Open home page
+2019-10-15 17:07:26 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:07:33 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:07:34 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:07:34 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:07:35 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:07:36 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:07:52 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:07:52 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:07:52 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:07:52 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:07:53 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:07:54 INFO  - Open home page - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:07:54 INFO  - unknown error: Element <span class="title">...</span> is not clickable at point (25, 359). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 13500; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.1; cursor: wait; position: absolute;"></div>
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 47cd66c1778dceb3b84da10dd21763dd
+2019-10-15 17:07:54 INFO  - Total Time taken in(seconds):28
+2019-10-15 17:07:54 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:07:54 INFO  - TestResults
+2019-10-15 17:07:56 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:07:56 INFO  - Closing Browsers
+2019-10-15 17:07:57 INFO  - Default suite suite finished at Tue Oct 15 17:07:57 IST 2019
+2019-10-15 17:07:58 INFO  - Comparison sheet written successfully
+2019-10-15 17:07:58 INFO  - Data to excel written successfully
+2019-10-15 17:07:58 INFO  - Test process has ended
+2019-10-15 17:07:58 INFO  - +=============Database started=============+
+2019-10-15 17:07:58 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:07:58 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:07:58 INFO  - +==========================================+
+
+2019-10-15 17:07:58 INFO  - Comparison sheet written successfully
+2019-10-15 17:07:58 INFO  - Data to excel written successfully
+2019-10-15 17:07:58 INFO  - History File created successfully
+2019-10-15 17:09:22 INFO  - 
+============================================================================================================================
+2019-10-15 17:09:22 INFO  - Default suite suite started at Tue Oct 15 17:09:22 IST 2019
+2019-10-15 17:09:22 INFO  - Suite Browser: chrome
+2019-10-15 17:09:23 INFO  - +=============Database started=============+
+2019-10-15 17:09:23 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:09:23 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:09:23 INFO  - +==========================================+
+
+2019-10-15 17:09:23 INFO  - Test is started with browser: chrome
+2019-10-15 17:09:34 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:09:34 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:09:34 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:09:34 INFO  - Test description: 
+2019-10-15 17:09:34 INFO  - Open home page
+2019-10-15 17:09:34 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:09:43 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:09:44 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:09:44 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:09:45 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:09:46 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:09:56 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:09:56 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:09:56 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:09:57 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:09:59 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:10:00 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:10:05 INFO  - Input Text: Enhops12 - By.id: SITE_NAME
+2019-10-15 17:10:12 INFO  - Input Text: 77 - By.id: SITE_NAME
+2019-10-15 17:10:18 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 17:10:21 INFO  - Input Text: Enhops12 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 17:10:21 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:10:23 INFO  - Open home page - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:10:23 INFO  - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]"}
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: a366382e15a83a9515f15722b8a9535d
+*** Element info: {Using=xpath, value=//*[@id='grid_GSC_VW_DIM_SITE_NAME']/tbody/tr[2]/td[2]}
+2019-10-15 17:10:23 INFO  - Total Time taken in(seconds):48
+2019-10-15 17:10:23 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 17:10:23 INFO  - TestResults
+2019-10-15 17:10:53 INFO  - 
+============================================================================================================================
+2019-10-15 17:10:53 INFO  - Default suite suite started at Tue Oct 15 17:10:53 IST 2019
+2019-10-15 17:10:53 INFO  - Suite Browser: chrome
+2019-10-15 17:10:54 INFO  - +=============Database started=============+
+2019-10-15 17:10:54 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:10:54 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:10:54 INFO  - +==========================================+
+
+2019-10-15 17:10:54 INFO  - Test is started with browser: chrome
+2019-10-15 17:11:05 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:11:05 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:11:05 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:11:05 INFO  - Test description: 
+2019-10-15 17:11:05 INFO  - Open home page
+2019-10-15 17:11:05 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:11:12 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:11:12 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:11:12 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:11:13 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:11:15 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:11:23 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:11:24 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:11:24 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:11:25 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:11:26 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:11:27 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:11:32 INFO  - Input Text: Enhops12 - By.id: SITE_NAME
+2019-10-15 17:11:40 INFO  - Input Text: 77 - By.id: SITE_RANK
+2019-10-15 17:11:45 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 17:11:48 INFO  - Input Text: Enhops12 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 17:11:48 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:11:49 INFO  - Total Time taken in(seconds):44
+2019-10-15 17:11:50 INFO  - TestResults
+2019-10-15 17:11:51 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 17:11:51 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:11:51 INFO  - Closing Browsers
+2019-10-15 17:11:52 INFO  - Default suite suite finished at Tue Oct 15 17:11:52 IST 2019
+2019-10-15 17:11:53 INFO  - Comparison sheet written successfully
+2019-10-15 17:11:53 INFO  - Data to excel written successfully
+2019-10-15 17:11:53 INFO  - Test process has ended
+2019-10-15 17:11:53 INFO  - +=============Database started=============+
+2019-10-15 17:11:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:11:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:11:53 INFO  - +==========================================+
+
+2019-10-15 17:11:54 INFO  - Comparison sheet written successfully
+2019-10-15 17:11:54 INFO  - Data to excel written successfully
+2019-10-15 17:11:54 INFO  - History File created successfully
+2019-10-15 17:12:48 INFO  - 
+============================================================================================================================
+2019-10-15 17:12:48 INFO  - Default suite suite started at Tue Oct 15 17:12:48 IST 2019
+2019-10-15 17:12:48 INFO  - Suite Browser: chrome
+2019-10-15 17:12:49 INFO  - +=============Database started=============+
+2019-10-15 17:12:49 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:12:49 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:12:49 INFO  - +==========================================+
+
+2019-10-15 17:12:49 INFO  - Test is started with browser: chrome
+2019-10-15 17:13:00 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 17:13:00 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:13:00 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 17:13:00 INFO  - Test description: 
+2019-10-15 17:13:00 INFO  - Open home page
+2019-10-15 17:13:00 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:13:09 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:13:09 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:13:10 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:13:11 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:13:12 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:13:23 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:13:23 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:13:23 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:13:24 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 17:13:25 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 17:13:27 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:13:28 INFO  - Input Text: Enhops27 - By.id: SITE_NAME
+2019-10-15 17:13:28 INFO  - Input Text: 87 - By.id: SITE_RANK
+2019-10-15 17:13:28 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 17:13:31 INFO  - Input Text: Enhops27 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 17:13:32 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 17:13:33 INFO  - Total Time taken in(seconds):32
+2019-10-15 17:13:33 INFO  - TestResults
+2019-10-15 17:13:34 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 17:13:34 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:13:34 INFO  - Closing Browsers
+2019-10-15 17:13:35 INFO  - Default suite suite finished at Tue Oct 15 17:13:35 IST 2019
+2019-10-15 17:13:36 INFO  - Comparison sheet written successfully
+2019-10-15 17:13:36 INFO  - Data to excel written successfully
+2019-10-15 17:13:36 INFO  - Test process has ended
+2019-10-15 17:13:36 INFO  - +=============Database started=============+
+2019-10-15 17:13:36 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:13:36 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:13:36 INFO  - +==========================================+
+
+2019-10-15 17:13:36 INFO  - Comparison sheet written successfully
+2019-10-15 17:13:36 INFO  - Data to excel written successfully
+2019-10-15 17:13:37 INFO  - History File created successfully
+2019-10-15 17:17:21 INFO  - 
+============================================================================================================================
+2019-10-15 17:17:21 INFO  - Default suite suite started at Tue Oct 15 17:17:21 IST 2019
+2019-10-15 17:17:21 INFO  - Suite Browser: chrome
+2019-10-15 17:17:21 INFO  - +=============Database started=============+
+2019-10-15 17:17:21 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:17:21 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:17:21 INFO  - +==========================================+
+
+2019-10-15 17:17:21 INFO  - Test is started with browser: chrome
+2019-10-15 17:17:32 INFO  - No data found with given key-> SMITHS_TC_001
+2019-10-15 17:17:32 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 17:17:32 INFO  - Test Started: SMITHS_TC_001
+2019-10-15 17:17:32 INFO  - Test description: 
+2019-10-15 17:17:33 INFO  - Open home page
+2019-10-15 17:17:33 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 17:17:40 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 17:17:41 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 17:17:41 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 17:17:43 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 17:17:44 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 17:17:55 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:17:55 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 17:17:55 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 17:17:55 INFO  - Total Time taken in(seconds):22
+2019-10-15 17:17:55 INFO  - TestResults
+2019-10-15 17:17:57 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 17:17:57 INFO  - Test has ended - closing browser: chrome
+2019-10-15 17:17:57 INFO  - Closing Browsers
+2019-10-15 17:17:58 INFO  - Default suite suite finished at Tue Oct 15 17:17:58 IST 2019
+2019-10-15 17:17:59 INFO  - Comparison sheet written successfully
+2019-10-15 17:17:59 INFO  - Data to excel written successfully
+2019-10-15 17:17:59 INFO  - Test process has ended
+2019-10-15 17:17:59 INFO  - +=============Database started=============+
+2019-10-15 17:17:59 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 17:17:59 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 17:17:59 INFO  - +==========================================+
+
+2019-10-15 17:17:59 INFO  - Comparison sheet written successfully
+2019-10-15 17:17:59 INFO  - Data to excel written successfully
+2019-10-15 17:17:59 INFO  - History File created successfully
+2019-10-15 18:15:04 INFO  - 
+============================================================================================================================
+2019-10-15 18:15:04 INFO  - Default suite suite started at Tue Oct 15 18:15:04 IST 2019
+2019-10-15 18:15:04 INFO  - Suite Browser: chrome
+2019-10-15 18:15:05 INFO  - +=============Database started=============+
+2019-10-15 18:15:05 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:15:05 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:15:05 INFO  - +==========================================+
+
+2019-10-15 18:15:05 INFO  - Test is started with browser: chrome
+2019-10-15 18:15:16 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-15 18:15:16 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:15:16 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-15 18:15:16 INFO  - Test description: 
+2019-10-15 18:15:17 INFO  - Open home page
+2019-10-15 18:15:17 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:15:23 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:15:24 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:15:24 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:15:25 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:15:26 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:15:36 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:15:37 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:15:37 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:15:38 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:15:39 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-15 18:15:40 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 18:15:42 INFO  - Input Text: KPI_Sitedetails_Enhops1 - By.id: SITE_NAME
+2019-10-15 18:15:42 INFO  - Input Text: 001 - By.id: SITE_RANK
+2019-10-15 18:15:42 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-15 18:15:46 INFO  - Input Text: KPI_Sitedetails_Enhops1 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-15 18:15:46 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-15 18:15:47 INFO  - Total Time taken in(seconds):31
+2019-10-15 18:15:48 INFO  - TestResults
+2019-10-15 18:15:49 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 18:15:49 INFO  - Test has ended - closing browser: chrome
+2019-10-15 18:15:49 INFO  - Closing Browsers
+2019-10-15 18:15:50 INFO  - Default suite suite finished at Tue Oct 15 18:15:50 IST 2019
+2019-10-15 18:15:51 INFO  - Comparison sheet written successfully
+2019-10-15 18:15:51 INFO  - Data to excel written successfully
+2019-10-15 18:15:51 INFO  - Test process has ended
+2019-10-15 18:15:51 INFO  - +=============Database started=============+
+2019-10-15 18:15:51 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:15:51 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:15:51 INFO  - +==========================================+
+
+2019-10-15 18:15:51 INFO  - Comparison sheet written successfully
+2019-10-15 18:15:51 INFO  - Data to excel written successfully
+2019-10-15 18:15:51 INFO  - History File created successfully
+2019-10-15 18:26:33 INFO  - 
+============================================================================================================================
+2019-10-15 18:26:33 INFO  - Default suite suite started at Tue Oct 15 18:26:33 IST 2019
+2019-10-15 18:26:33 INFO  - Suite Browser: chrome
+2019-10-15 18:26:34 INFO  - +=============Database started=============+
+2019-10-15 18:26:34 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:26:34 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:26:34 INFO  - +==========================================+
+
+2019-10-15 18:26:34 INFO  - Test is started with browser: chrome
+2019-10-15 18:26:45 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 18:26:45 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:26:45 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 18:26:45 INFO  - Test description: 
+2019-10-15 18:26:45 INFO  - Open home page
+2019-10-15 18:26:45 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:26:53 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:26:53 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:26:53 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:26:55 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:26:56 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:27:07 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:27:07 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:27:08 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:27:09 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:27:10 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 18:27:10 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 18:27:12 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 18:27:13 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 18:27:13 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 18:27:14 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 18:27:14 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 18:27:16 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 18:27:16 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 18:27:17 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 18:27:18 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 18:27:18 INFO  - Input Text: 001 - By.id: KPI_MASTER_ID
+2019-10-15 18:27:18 INFO  - Total Time taken in(seconds):33
+2019-10-15 18:27:18 INFO  - TestResults
+2019-10-15 18:27:20 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 18:27:20 INFO  - Test has ended - closing browser: chrome
+2019-10-15 18:27:20 INFO  - Closing Browsers
+2019-10-15 18:27:21 INFO  - Default suite suite finished at Tue Oct 15 18:27:21 IST 2019
+2019-10-15 18:27:21 INFO  - Comparison sheet written successfully
+2019-10-15 18:27:21 INFO  - Data to excel written successfully
+2019-10-15 18:27:22 INFO  - Test process has ended
+2019-10-15 18:27:22 INFO  - +=============Database started=============+
+2019-10-15 18:27:22 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:27:22 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:27:22 INFO  - +==========================================+
+
+2019-10-15 18:27:22 INFO  - Comparison sheet written successfully
+2019-10-15 18:27:22 INFO  - Data to excel written successfully
+2019-10-15 18:27:22 INFO  - History File created successfully
+2019-10-15 18:46:59 INFO  - 
+============================================================================================================================
+2019-10-15 18:46:59 INFO  - Default suite suite started at Tue Oct 15 18:46:59 IST 2019
+2019-10-15 18:46:59 INFO  - Suite Browser: chrome
+2019-10-15 18:47:00 INFO  - +=============Database started=============+
+2019-10-15 18:47:00 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:47:00 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:47:00 INFO  - +==========================================+
+
+2019-10-15 18:47:00 INFO  - Test is started with browser: chrome
+2019-10-15 18:47:11 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 18:47:11 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:47:11 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 18:47:11 INFO  - Test description: 
+2019-10-15 18:47:11 INFO  - Open home page
+2019-10-15 18:47:11 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:47:20 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:47:21 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:47:21 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:47:22 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:47:23 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:47:33 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:47:33 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:47:33 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:47:34 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:47:36 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 18:47:36 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 18:47:38 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 18:47:40 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 18:47:40 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 18:47:42 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 18:47:42 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 18:47:44 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 18:47:44 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 18:47:45 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 18:47:47 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 18:47:47 INFO  - Input Text: 001 - By.id: KPI_MASTER_ID
+2019-10-15 18:47:47 INFO  - Click: By.className: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 18:48:41 INFO  - 
+============================================================================================================================
+2019-10-15 18:48:41 INFO  - Default suite suite started at Tue Oct 15 18:48:41 IST 2019
+2019-10-15 18:48:41 INFO  - Suite Browser: chrome
+2019-10-15 18:48:42 INFO  - +=============Database started=============+
+2019-10-15 18:48:42 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:48:42 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:48:42 INFO  - +==========================================+
+
+2019-10-15 18:48:42 INFO  - Test is started with browser: chrome
+2019-10-15 18:48:54 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 18:48:54 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:48:54 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 18:48:54 INFO  - Test description: 
+2019-10-15 18:48:54 INFO  - Open home page
+2019-10-15 18:48:54 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:49:02 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:49:03 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:49:03 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:49:05 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:49:06 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:49:15 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:49:16 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:49:17 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:49:18 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:49:20 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 18:49:20 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 18:49:22 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 18:49:23 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 18:49:23 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 18:49:24 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 18:49:25 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 18:49:26 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 18:49:26 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 18:49:27 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 18:49:28 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 18:49:29 INFO  - Input Text: 001 - By.id: KPI_MASTER_ID
+2019-10-15 18:49:29 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 18:49:29 INFO  - Total Time taken in(seconds):35
+2019-10-15 18:49:30 INFO  - TestResults
+2019-10-15 18:49:32 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 18:49:32 INFO  - Test has ended - closing browser: chrome
+2019-10-15 18:49:32 INFO  - Closing Browsers
+2019-10-15 18:49:33 INFO  - Default suite suite finished at Tue Oct 15 18:49:33 IST 2019
+2019-10-15 18:49:33 INFO  - Comparison sheet written successfully
+2019-10-15 18:49:33 INFO  - Data to excel written successfully
+2019-10-15 18:49:34 INFO  - Test process has ended
+2019-10-15 18:49:34 INFO  - +=============Database started=============+
+2019-10-15 18:49:34 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:49:34 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:49:34 INFO  - +==========================================+
+
+2019-10-15 18:49:34 INFO  - Comparison sheet written successfully
+2019-10-15 18:49:34 INFO  - Data to excel written successfully
+2019-10-15 18:49:34 INFO  - History File created successfully
+2019-10-15 18:50:46 INFO  - 
+============================================================================================================================
+2019-10-15 18:50:46 INFO  - Default suite suite started at Tue Oct 15 18:50:46 IST 2019
+2019-10-15 18:50:46 INFO  - Suite Browser: chrome
+2019-10-15 18:50:47 INFO  - +=============Database started=============+
+2019-10-15 18:50:47 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:50:47 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:50:47 INFO  - +==========================================+
+
+2019-10-15 18:50:47 INFO  - Test is started with browser: chrome
+2019-10-15 18:50:58 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 18:50:58 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:50:58 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 18:50:58 INFO  - Test description: 
+2019-10-15 18:50:58 INFO  - Open home page
+2019-10-15 18:50:58 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:51:06 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:51:06 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:51:06 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:51:08 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:51:08 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:51:17 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:51:17 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:51:17 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:51:18 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:51:20 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 18:51:20 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 18:51:21 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 18:51:23 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 18:51:23 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 18:51:24 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 18:51:24 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 18:51:25 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 18:51:26 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 18:51:27 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 18:51:27 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 18:51:28 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 18:51:28 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 18:51:28 INFO  - Total Time taken in(seconds):29
+2019-10-15 18:51:28 INFO  - TestResults
+2019-10-15 18:51:30 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 18:51:30 INFO  - Test has ended - closing browser: chrome
+2019-10-15 18:51:30 INFO  - Closing Browsers
+2019-10-15 18:51:30 INFO  - Default suite suite finished at Tue Oct 15 18:51:30 IST 2019
+2019-10-15 18:51:31 INFO  - Comparison sheet written successfully
+2019-10-15 18:51:31 INFO  - Data to excel written successfully
+2019-10-15 18:51:31 INFO  - Test process has ended
+2019-10-15 18:51:31 INFO  - +=============Database started=============+
+2019-10-15 18:51:31 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:51:31 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:51:31 INFO  - +==========================================+
+
+2019-10-15 18:51:31 INFO  - Comparison sheet written successfully
+2019-10-15 18:51:31 INFO  - Data to excel written successfully
+2019-10-15 18:51:31 INFO  - History File created successfully
+2019-10-15 18:58:05 INFO  - 
+============================================================================================================================
+2019-10-15 18:58:05 INFO  - Default suite suite started at Tue Oct 15 18:58:05 IST 2019
+2019-10-15 18:58:05 INFO  - Suite Browser: chrome
+2019-10-15 18:58:06 INFO  - +=============Database started=============+
+2019-10-15 18:58:06 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:58:06 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:58:06 INFO  - +==========================================+
+
+2019-10-15 18:58:06 INFO  - Test is started with browser: chrome
+2019-10-15 18:58:17 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 18:58:17 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 18:58:17 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 18:58:17 INFO  - Test description: 
+2019-10-15 18:58:17 INFO  - Open home page
+2019-10-15 18:58:17 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 18:58:25 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 18:58:25 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 18:58:25 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 18:58:27 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 18:58:31 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 18:58:42 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:58:42 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 18:58:42 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 18:58:43 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 18:58:45 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 18:58:45 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 18:58:47 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 18:58:48 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 18:58:48 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 18:58:50 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 18:58:50 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 18:58:51 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 18:58:51 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 18:58:53 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 18:58:53 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 18:58:53 INFO  - Input Text: 003 - By.id: KPI_MASTER_ID
+2019-10-15 18:58:54 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 18:58:59 INFO  - Total Time taken in(seconds):41
+2019-10-15 18:58:59 INFO  - TestResults
+2019-10-15 18:59:00 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 18:59:00 INFO  - Test has ended - closing browser: chrome
+2019-10-15 18:59:00 INFO  - Closing Browsers
+2019-10-15 18:59:01 INFO  - Default suite suite finished at Tue Oct 15 18:59:01 IST 2019
+2019-10-15 18:59:02 INFO  - Comparison sheet written successfully
+2019-10-15 18:59:02 INFO  - Data to excel written successfully
+2019-10-15 18:59:02 INFO  - Test process has ended
+2019-10-15 18:59:02 INFO  - +=============Database started=============+
+2019-10-15 18:59:02 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 18:59:02 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 18:59:02 INFO  - +==========================================+
+
+2019-10-15 18:59:02 INFO  - Comparison sheet written successfully
+2019-10-15 18:59:02 INFO  - Data to excel written successfully
+2019-10-15 18:59:02 INFO  - History File created successfully
+2019-10-15 19:00:37 INFO  - 
+============================================================================================================================
+2019-10-15 19:00:37 INFO  - Default suite suite started at Tue Oct 15 19:00:37 IST 2019
+2019-10-15 19:00:37 INFO  - Suite Browser: chrome
+2019-10-15 19:00:38 INFO  - +=============Database started=============+
+2019-10-15 19:00:38 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:00:38 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:00:38 INFO  - +==========================================+
+
+2019-10-15 19:00:38 INFO  - Test is started with browser: chrome
+2019-10-15 19:00:49 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:00:49 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:00:49 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:00:49 INFO  - Test description: 
+2019-10-15 19:00:49 INFO  - Open home page
+2019-10-15 19:00:49 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:00:56 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:00:56 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:00:56 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:00:58 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:00:58 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:01:09 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:01:09 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:01:09 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:01:10 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:01:11 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:01:12 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:01:13 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:01:14 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:01:14 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:01:15 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 19:01:16 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:01:17 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 19:01:17 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:01:18 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:01:19 INFO  - Input Text: Kpa_master-enhops - By.id: KPI_VALUE
+2019-10-15 19:01:19 INFO  - Input Text: 004 - By.id: KPI_MASTER_ID
+2019-10-15 19:01:19 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:01:24 INFO  - Total Time taken in(seconds):35
+2019-10-15 19:01:25 INFO  - TestResults
+2019-10-15 19:01:26 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:01:26 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:01:26 INFO  - Closing Browsers
+2019-10-15 19:01:28 INFO  - Default suite suite finished at Tue Oct 15 19:01:28 IST 2019
+2019-10-15 19:01:28 INFO  - Comparison sheet written successfully
+2019-10-15 19:01:28 INFO  - Data to excel written successfully
+2019-10-15 19:01:28 INFO  - Test process has ended
+2019-10-15 19:01:28 INFO  - +=============Database started=============+
+2019-10-15 19:01:28 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:01:28 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:01:28 INFO  - +==========================================+
+
+2019-10-15 19:01:28 INFO  - Comparison sheet written successfully
+2019-10-15 19:01:28 INFO  - Data to excel written successfully
+2019-10-15 19:01:28 INFO  - History File created successfully
+2019-10-15 19:02:50 INFO  - 
+============================================================================================================================
+2019-10-15 19:02:50 INFO  - Default suite suite started at Tue Oct 15 19:02:50 IST 2019
+2019-10-15 19:02:50 INFO  - Suite Browser: chrome
+2019-10-15 19:02:51 INFO  - +=============Database started=============+
+2019-10-15 19:02:51 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:02:51 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:02:51 INFO  - +==========================================+
+
+2019-10-15 19:02:51 INFO  - Test is started with browser: chrome
+2019-10-15 19:03:02 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:03:02 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:03:02 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:03:02 INFO  - Test description: 
+2019-10-15 19:03:03 INFO  - Open home page
+2019-10-15 19:03:03 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:03:10 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:03:10 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:03:10 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:03:12 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:03:13 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:03:22 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:03:22 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:03:22 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:03:23 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:03:25 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:03:25 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:03:26 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:03:27 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:03:28 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:03:29 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 19:03:29 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:03:30 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 19:03:31 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:03:32 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:03:32 INFO  - Input Text: 001 - By.id: KPI_VALUE
+2019-10-15 19:03:32 INFO  - Input Text: 100 - By.id: KPI_MASTER_ID
+2019-10-15 19:03:33 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:03:38 INFO  - Total Time taken in(seconds):35
+2019-10-15 19:03:39 INFO  - TestResults
+2019-10-15 19:03:40 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:03:40 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:03:40 INFO  - Closing Browsers
+2019-10-15 19:03:41 INFO  - Default suite suite finished at Tue Oct 15 19:03:41 IST 2019
+2019-10-15 19:03:42 INFO  - Comparison sheet written successfully
+2019-10-15 19:03:42 INFO  - Data to excel written successfully
+2019-10-15 19:03:42 INFO  - Test process has ended
+2019-10-15 19:03:42 INFO  - +=============Database started=============+
+2019-10-15 19:03:42 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:03:42 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:03:42 INFO  - +==========================================+
+
+2019-10-15 19:03:42 INFO  - Comparison sheet written successfully
+2019-10-15 19:03:42 INFO  - Data to excel written successfully
+2019-10-15 19:03:42 INFO  - History File created successfully
+2019-10-15 19:05:17 INFO  - 
+============================================================================================================================
+2019-10-15 19:05:17 INFO  - Default suite suite started at Tue Oct 15 19:05:17 IST 2019
+2019-10-15 19:05:17 INFO  - Suite Browser: chrome
+2019-10-15 19:05:18 INFO  - +=============Database started=============+
+2019-10-15 19:05:18 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:05:18 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:05:18 INFO  - +==========================================+
+
+2019-10-15 19:05:18 INFO  - Test is started with browser: chrome
+2019-10-15 19:05:30 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:05:30 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:05:30 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:05:30 INFO  - Test description: 
+2019-10-15 19:05:30 INFO  - Open home page
+2019-10-15 19:05:30 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:05:36 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:05:37 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:05:37 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:05:38 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:05:39 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:05:48 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:05:48 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:05:48 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:05:49 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:05:51 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:05:51 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:05:52 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:05:53 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:05:53 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:05:55 INFO  - Select dropdown by text : FY 2018 - By.id: FISCAL_YEAR
+2019-10-15 19:05:55 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:05:56 INFO  - Select dropdown by text : 03 - By.id: FISCAL_PERIOD
+2019-10-15 19:05:56 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:05:58 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:05:58 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 19:05:58 INFO  - Input Text: 100 - By.id: KPI_MASTER_ID
+2019-10-15 19:05:58 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:06:04 INFO  - Total Time taken in(seconds):33
+2019-10-15 19:06:04 INFO  - TestResults
+2019-10-15 19:06:05 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:06:05 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:06:05 INFO  - Closing Browsers
+2019-10-15 19:06:06 INFO  - Default suite suite finished at Tue Oct 15 19:06:06 IST 2019
+2019-10-15 19:06:07 INFO  - Comparison sheet written successfully
+2019-10-15 19:06:07 INFO  - Data to excel written successfully
+2019-10-15 19:06:07 INFO  - Test process has ended
+2019-10-15 19:06:07 INFO  - +=============Database started=============+
+2019-10-15 19:06:07 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:06:07 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:06:07 INFO  - +==========================================+
+
+2019-10-15 19:06:07 INFO  - Comparison sheet written successfully
+2019-10-15 19:06:07 INFO  - Data to excel written successfully
+2019-10-15 19:06:07 INFO  - History File created successfully
+2019-10-15 19:06:38 INFO  - 
+============================================================================================================================
+2019-10-15 19:06:38 INFO  - Default suite suite started at Tue Oct 15 19:06:38 IST 2019
+2019-10-15 19:06:38 INFO  - Suite Browser: chrome
+2019-10-15 19:06:39 INFO  - +=============Database started=============+
+2019-10-15 19:06:39 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:06:39 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:06:39 INFO  - +==========================================+
+
+2019-10-15 19:06:39 INFO  - Test is started with browser: chrome
+2019-10-15 19:06:50 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:06:50 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:06:50 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:06:50 INFO  - Test description: 
+2019-10-15 19:06:51 INFO  - Open home page
+2019-10-15 19:06:51 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:06:57 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:06:57 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:06:57 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:06:59 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:07:00 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:07:09 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:07:09 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:07:09 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:07:10 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:07:12 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:07:12 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:07:14 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:07:15 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:07:15 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:07:16 INFO  - Select dropdown by text : FY 2019 - By.id: FISCAL_YEAR
+2019-10-15 19:07:17 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:07:18 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 19:07:18 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:07:19 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:07:20 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 19:07:20 INFO  - Input Text: 001 - By.id: KPI_MASTER_ID
+2019-10-15 19:07:20 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:07:25 INFO  - Total Time taken in(seconds):34
+2019-10-15 19:07:26 INFO  - TestResults
+2019-10-15 19:07:27 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:07:27 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:07:27 INFO  - Closing Browsers
+2019-10-15 19:07:28 INFO  - Default suite suite finished at Tue Oct 15 19:07:28 IST 2019
+2019-10-15 19:07:28 INFO  - Comparison sheet written successfully
+2019-10-15 19:07:28 INFO  - Data to excel written successfully
+2019-10-15 19:07:29 INFO  - Test process has ended
+2019-10-15 19:07:29 INFO  - +=============Database started=============+
+2019-10-15 19:07:29 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:07:29 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:07:29 INFO  - +==========================================+
+
+2019-10-15 19:07:29 INFO  - Comparison sheet written successfully
+2019-10-15 19:07:29 INFO  - Data to excel written successfully
+2019-10-15 19:07:29 INFO  - History File created successfully
+2019-10-15 19:10:15 INFO  - 
+============================================================================================================================
+2019-10-15 19:10:15 INFO  - Default suite suite started at Tue Oct 15 19:10:15 IST 2019
+2019-10-15 19:10:15 INFO  - Suite Browser: chrome
+2019-10-15 19:10:16 INFO  - +=============Database started=============+
+2019-10-15 19:10:16 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:10:16 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:10:16 INFO  - +==========================================+
+
+2019-10-15 19:10:16 INFO  - Test is started with browser: chrome
+2019-10-15 19:10:27 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:10:27 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:10:27 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:10:27 INFO  - Test description: 
+2019-10-15 19:10:27 INFO  - Open home page
+2019-10-15 19:10:27 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:10:35 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:10:35 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:10:35 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:10:37 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:10:38 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:10:47 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:10:47 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:10:47 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:10:48 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:10:49 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:10:50 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:10:51 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:10:52 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:10:52 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:10:54 INFO  - Select dropdown by text : FY 2019 - By.id: FISCAL_YEAR
+2019-10-15 19:10:54 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:10:55 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 19:10:55 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:10:57 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:10:57 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 19:10:57 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 19:10:57 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:11:03 INFO  - Total Time taken in(seconds):35
+2019-10-15 19:11:03 INFO  - TestResults
+2019-10-15 19:11:04 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:11:04 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:11:04 INFO  - Closing Browsers
+2019-10-15 19:11:05 INFO  - Default suite suite finished at Tue Oct 15 19:11:05 IST 2019
+2019-10-15 19:11:06 INFO  - Comparison sheet written successfully
+2019-10-15 19:11:06 INFO  - Data to excel written successfully
+2019-10-15 19:11:06 INFO  - Test process has ended
+2019-10-15 19:11:06 INFO  - +=============Database started=============+
+2019-10-15 19:11:06 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:11:06 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:11:06 INFO  - +==========================================+
+
+2019-10-15 19:11:06 INFO  - Comparison sheet written successfully
+2019-10-15 19:11:06 INFO  - Data to excel written successfully
+2019-10-15 19:11:06 INFO  - History File created successfully
+2019-10-15 19:11:34 INFO  - 
+============================================================================================================================
+2019-10-15 19:11:34 INFO  - Default suite suite started at Tue Oct 15 19:11:34 IST 2019
+2019-10-15 19:11:34 INFO  - Suite Browser: chrome
+2019-10-15 19:11:35 INFO  - +=============Database started=============+
+2019-10-15 19:11:35 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:11:35 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:11:35 INFO  - +==========================================+
+
+2019-10-15 19:11:35 INFO  - Test is started with browser: chrome
+2019-10-15 19:11:46 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 19:11:46 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 19:11:46 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 19:11:46 INFO  - Test description: 
+2019-10-15 19:11:46 INFO  - Open home page
+2019-10-15 19:11:46 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 19:11:54 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 19:11:54 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 19:11:55 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 19:11:56 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 19:11:57 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 19:12:15 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:12:16 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 19:12:16 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 19:12:17 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 19:12:18 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 19:12:18 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 19:12:19 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 19:12:20 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 19:12:21 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 19:12:22 INFO  - Select dropdown by text : FY 2020 - By.id: FISCAL_YEAR
+2019-10-15 19:12:22 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 19:12:23 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 19:12:24 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 19:12:25 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 19:12:25 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 19:12:25 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 19:12:26 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 19:12:31 INFO  - Total Time taken in(seconds):44
+2019-10-15 19:12:31 INFO  - TestResults
+2019-10-15 19:12:33 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 19:12:33 INFO  - Test has ended - closing browser: chrome
+2019-10-15 19:12:33 INFO  - Closing Browsers
+2019-10-15 19:12:34 INFO  - Default suite suite finished at Tue Oct 15 19:12:34 IST 2019
+2019-10-15 19:12:34 INFO  - Comparison sheet written successfully
+2019-10-15 19:12:34 INFO  - Data to excel written successfully
+2019-10-15 19:12:35 INFO  - Test process has ended
+2019-10-15 19:12:35 INFO  - +=============Database started=============+
+2019-10-15 19:12:35 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 19:12:35 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 19:12:35 INFO  - +==========================================+
+
+2019-10-15 19:12:35 INFO  - Comparison sheet written successfully
+2019-10-15 19:12:35 INFO  - Data to excel written successfully
+2019-10-15 19:12:35 INFO  - History File created successfully
+2019-10-15 20:27:51 INFO  - 
+============================================================================================================================
+2019-10-15 20:27:51 INFO  - Default suite suite started at Tue Oct 15 20:27:51 IST 2019
+2019-10-15 20:27:51 INFO  - Suite Browser: chrome
+2019-10-15 20:27:52 INFO  - +=============Database started=============+
+2019-10-15 20:27:52 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 20:27:52 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 20:27:52 INFO  - +==========================================+
+
+2019-10-15 20:27:52 INFO  - Test is started with browser: chrome
+2019-10-15 20:28:03 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 20:28:03 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 20:28:03 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 20:28:03 INFO  - Test description: 
+2019-10-15 20:28:04 INFO  - Open home page
+2019-10-15 20:28:04 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 20:28:15 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 20:28:16 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 20:28:16 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 20:28:17 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 20:28:18 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 20:28:28 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 20:28:28 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 20:28:28 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 20:28:29 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 20:28:30 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 20:28:31 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 20:28:32 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 20:28:33 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 20:28:33 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 20:28:35 INFO  - Select dropdown by text : FY 2021 - By.id: FISCAL_YEAR
+2019-10-15 20:28:35 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 20:28:36 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 20:28:36 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 20:28:37 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 20:28:38 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 20:28:38 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 20:28:38 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 20:28:44 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 20:28:44 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 20:28:44 INFO  - Get List of Elements: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:28:44 INFO  - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:29:35 INFO  - Open home page - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:29:35 INFO  - Expected condition failed: waiting for element to be clickable: By.xpath: //table[@role="presentation"]/thead/tr/th (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 33211aa8c071d9943525e084a18483ab
+2019-10-15 20:29:35 INFO  - Total Time taken in(seconds):91
+2019-10-15 20:29:35 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 20:29:35 INFO  - TestResults
+2019-10-15 20:29:36 INFO  - Test has ended - closing browser: chrome
+2019-10-15 20:29:36 INFO  - Closing Browsers
+2019-10-15 20:29:38 INFO  - Default suite suite finished at Tue Oct 15 20:29:38 IST 2019
+2019-10-15 20:29:38 INFO  - Comparison sheet written successfully
+2019-10-15 20:29:38 INFO  - Data to excel written successfully
+2019-10-15 20:29:39 INFO  - Test process has ended
+2019-10-15 20:29:39 INFO  - +=============Database started=============+
+2019-10-15 20:29:39 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 20:29:39 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 20:29:39 INFO  - +==========================================+
+
+2019-10-15 20:29:39 INFO  - Comparison sheet written successfully
+2019-10-15 20:29:39 INFO  - Data to excel written successfully
+2019-10-15 20:29:39 INFO  - History File created successfully
+2019-10-15 20:56:05 INFO  - 
+============================================================================================================================
+2019-10-15 20:56:05 INFO  - Default suite suite started at Tue Oct 15 20:56:05 IST 2019
+2019-10-15 20:56:05 INFO  - Suite Browser: chrome
+2019-10-15 20:56:06 INFO  - +=============Database started=============+
+2019-10-15 20:56:06 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 20:56:06 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 20:56:06 INFO  - +==========================================+
+
+2019-10-15 20:56:06 INFO  - Test is started with browser: chrome
+2019-10-15 20:56:18 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 20:56:18 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 20:56:18 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 20:56:18 INFO  - Test description: 
+2019-10-15 20:56:18 INFO  - Open home page
+2019-10-15 20:56:18 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 20:56:27 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 20:56:27 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 20:56:33 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 20:56:43 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 20:56:44 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 20:56:53 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 20:56:53 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 20:56:53 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 20:56:54 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 20:56:55 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 20:56:56 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 20:56:58 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 20:56:59 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 20:56:59 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 20:57:01 INFO  - Select dropdown by text : FY 2022 - By.id: FISCAL_YEAR
+2019-10-15 20:57:01 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 20:57:02 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 20:57:02 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 20:57:04 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 20:57:04 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 20:57:04 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 20:57:04 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 20:57:09 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 20:57:10 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 20:57:13 INFO  - Get List of Elements: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:57:13 INFO  - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:58:04 INFO  - Open home page - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 20:58:04 INFO  - Expected condition failed: waiting for element to be clickable: By.xpath: //table[@role="presentation"]/thead/tr/th (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 7dd22bb3c712195597c13fc62310fac2
+2019-10-15 20:58:04 INFO  - Total Time taken in(seconds):106
+2019-10-15 20:58:04 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 20:58:04 INFO  - TestResults
+2019-10-15 20:58:05 INFO  - Test has ended - closing browser: chrome
+2019-10-15 20:58:05 INFO  - Closing Browsers
+2019-10-15 20:58:06 INFO  - Default suite suite finished at Tue Oct 15 20:58:06 IST 2019
+2019-10-15 20:58:07 INFO  - Comparison sheet written successfully
+2019-10-15 20:58:07 INFO  - Data to excel written successfully
+2019-10-15 20:58:07 INFO  - Test process has ended
+2019-10-15 20:58:07 INFO  - +=============Database started=============+
+2019-10-15 20:58:07 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 20:58:07 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 20:58:07 INFO  - +==========================================+
+
+2019-10-15 20:58:07 INFO  - Comparison sheet written successfully
+2019-10-15 20:58:07 INFO  - Data to excel written successfully
+2019-10-15 20:58:07 INFO  - History File created successfully
+2019-10-15 21:12:57 INFO  - 
+============================================================================================================================
+2019-10-15 21:12:57 INFO  - Default suite suite started at Tue Oct 15 21:12:57 IST 2019
+2019-10-15 21:12:57 INFO  - Suite Browser: chrome
+2019-10-15 21:12:58 INFO  - +=============Database started=============+
+2019-10-15 21:12:58 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:12:58 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:12:58 INFO  - +==========================================+
+
+2019-10-15 21:12:58 INFO  - Test is started with browser: chrome
+2019-10-15 21:13:09 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 21:13:09 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 21:13:09 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 21:13:09 INFO  - Test description: 
+2019-10-15 21:13:10 INFO  - Open home page
+2019-10-15 21:13:10 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 21:13:18 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 21:13:19 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 21:13:19 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 21:13:20 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 21:13:21 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 21:13:33 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:13:33 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:13:33 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 21:13:34 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 21:13:36 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 21:13:36 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:13:38 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 21:13:39 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 21:13:39 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 21:13:41 INFO  - Select dropdown by text : FY 2023 - By.id: FISCAL_YEAR
+2019-10-15 21:13:41 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 21:13:42 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 21:13:42 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 21:13:43 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 21:13:44 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 21:13:44 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 21:13:44 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 21:13:49 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 21:13:50 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:13:53 INFO  - Get List of Elements: By.xpath: //table[@role="presentation"]/thead/tr/th
+2019-10-15 21:13:53 INFO  - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th[1]
+2019-10-15 21:14:44 INFO  - Open home page - Get Element text: By.xpath: //table[@role="presentation"]/thead/tr/th[1]
+2019-10-15 21:14:44 INFO  - Expected condition failed: waiting for element to be clickable: By.xpath: //table[@role="presentation"]/thead/tr/th[1] (tried for 50 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 26f4e68353a1410d0c796f304bac4278
+2019-10-15 21:14:44 INFO  - Total Time taken in(seconds):94
+2019-10-15 21:14:44 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 21:14:44 INFO  - TestResults
+2019-10-15 21:14:45 INFO  - Test has ended - closing browser: chrome
+2019-10-15 21:14:45 INFO  - Closing Browsers
+2019-10-15 21:14:46 INFO  - Default suite suite finished at Tue Oct 15 21:14:46 IST 2019
+2019-10-15 21:14:47 INFO  - Comparison sheet written successfully
+2019-10-15 21:14:47 INFO  - Data to excel written successfully
+2019-10-15 21:14:47 INFO  - Test process has ended
+2019-10-15 21:14:47 INFO  - +=============Database started=============+
+2019-10-15 21:14:47 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:14:47 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:14:47 INFO  - +==========================================+
+
+2019-10-15 21:14:47 INFO  - Comparison sheet written successfully
+2019-10-15 21:14:47 INFO  - Data to excel written successfully
+2019-10-15 21:14:47 INFO  - History File created successfully
+2019-10-15 21:43:39 INFO  - 
+============================================================================================================================
+2019-10-15 21:43:39 INFO  - Default suite suite started at Tue Oct 15 21:43:39 IST 2019
+2019-10-15 21:43:39 INFO  - Suite Browser: chrome
+2019-10-15 21:43:40 INFO  - +=============Database started=============+
+2019-10-15 21:43:40 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:43:40 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:43:40 INFO  - +==========================================+
+
+2019-10-15 21:43:40 INFO  - Test is started with browser: chrome
+2019-10-15 21:43:52 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 21:43:52 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 21:43:52 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 21:43:52 INFO  - Test description: 
+2019-10-15 21:43:52 INFO  - Open home page
+2019-10-15 21:43:52 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 21:44:01 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 21:44:01 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 21:44:01 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 21:44:03 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 21:44:04 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 21:44:14 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:44:14 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:44:14 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 21:44:15 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 21:44:17 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 21:44:17 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:44:18 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 21:44:20 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 21:44:20 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 21:44:21 INFO  - Select dropdown by text : FY 2024 - By.id: FISCAL_YEAR
+2019-10-15 21:44:21 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 21:44:23 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 21:44:23 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 21:44:24 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 21:44:25 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 21:44:25 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 21:44:25 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 21:44:30 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 21:44:30 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:44:34 INFO  - Open home page - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:44:34 INFO  - invalid selector: Unable to locate an element with the xpath expression //*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[7) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[7)' is not a valid XPath expression.
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: f814a46d2342914c608854543d0ca79f
+*** Element info: {Using=xpath, value=//*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[7)}
+2019-10-15 21:44:34 INFO  - Total Time taken in(seconds):42
+2019-10-15 21:44:34 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 21:44:35 INFO  - TestResults
+2019-10-15 21:44:36 INFO  - Test has ended - closing browser: chrome
+2019-10-15 21:44:36 INFO  - Closing Browsers
+2019-10-15 21:44:37 INFO  - Default suite suite finished at Tue Oct 15 21:44:37 IST 2019
+2019-10-15 21:44:38 INFO  - Comparison sheet written successfully
+2019-10-15 21:44:38 INFO  - Data to excel written successfully
+2019-10-15 21:44:38 INFO  - Test process has ended
+2019-10-15 21:44:38 INFO  - +=============Database started=============+
+2019-10-15 21:44:38 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:44:38 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:44:38 INFO  - +==========================================+
+
+2019-10-15 21:44:38 INFO  - Comparison sheet written successfully
+2019-10-15 21:44:38 INFO  - Data to excel written successfully
+2019-10-15 21:44:38 INFO  - History File created successfully
+2019-10-15 21:53:16 INFO  - 
+============================================================================================================================
+2019-10-15 21:53:16 INFO  - Default suite suite started at Tue Oct 15 21:53:16 IST 2019
+2019-10-15 21:53:16 INFO  - Suite Browser: chrome
+2019-10-15 21:53:17 INFO  - +=============Database started=============+
+2019-10-15 21:53:17 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:53:17 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:53:17 INFO  - +==========================================+
+
+2019-10-15 21:53:17 INFO  - Test is started with browser: chrome
+2019-10-15 21:53:28 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 21:53:28 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 21:53:28 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 21:53:28 INFO  - Test description: 
+2019-10-15 21:53:28 INFO  - Open home page
+2019-10-15 21:53:28 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 21:53:37 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 21:53:38 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 21:53:38 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 21:53:39 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 21:53:41 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 21:53:50 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:53:50 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:53:50 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 21:53:51 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 21:53:53 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 21:53:53 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:53:55 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 21:53:56 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 21:53:56 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 21:53:57 INFO  - Select dropdown by text : FY 2025 - By.id: FISCAL_YEAR
+2019-10-15 21:53:58 INFO  - Open home page - Select dropdown by text : FY 2025 - By.id: FISCAL_YEAR
+2019-10-15 21:53:58 INFO  - Cannot locate element with text: FY 2025
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown
+2019-10-15 21:53:58 INFO  - Total Time taken in(seconds):29
+2019-10-15 21:53:58 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 21:53:58 INFO  - TestResults
+2019-10-15 21:53:59 INFO  - Test has ended - closing browser: chrome
+2019-10-15 21:53:59 INFO  - Closing Browsers
+2019-10-15 21:54:00 INFO  - Default suite suite finished at Tue Oct 15 21:54:00 IST 2019
+2019-10-15 21:54:01 INFO  - Comparison sheet written successfully
+2019-10-15 21:54:01 INFO  - Data to excel written successfully
+2019-10-15 21:54:02 INFO  - Test process has ended
+2019-10-15 21:54:02 INFO  - +=============Database started=============+
+2019-10-15 21:54:02 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:54:02 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:54:02 INFO  - +==========================================+
+
+2019-10-15 21:54:02 INFO  - Comparison sheet written successfully
+2019-10-15 21:54:02 INFO  - Data to excel written successfully
+2019-10-15 21:54:02 INFO  - History File created successfully
+2019-10-15 21:54:51 INFO  - 
+============================================================================================================================
+2019-10-15 21:54:51 INFO  - Default suite suite started at Tue Oct 15 21:54:51 IST 2019
+2019-10-15 21:54:51 INFO  - Suite Browser: chrome
+2019-10-15 21:54:52 INFO  - +=============Database started=============+
+2019-10-15 21:54:52 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:54:52 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:54:52 INFO  - +==========================================+
+
+2019-10-15 21:54:52 INFO  - Test is started with browser: chrome
+2019-10-15 21:55:04 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 21:55:04 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 21:55:04 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 21:55:04 INFO  - Test description: 
+2019-10-15 21:55:04 INFO  - Open home page
+2019-10-15 21:55:04 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 21:55:11 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 21:55:11 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 21:55:12 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 21:55:13 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 21:55:14 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 21:55:23 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:55:23 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 21:55:23 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 21:55:24 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 21:55:25 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 21:55:25 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:55:27 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 21:55:28 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 21:55:28 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 21:55:29 INFO  - Select dropdown by text : FY 2024 - By.id: FISCAL_YEAR
+2019-10-15 21:55:30 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 21:55:31 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 21:55:31 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 21:55:32 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 21:55:33 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 21:55:33 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 21:55:33 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 21:55:38 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 21:55:39 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:55:42 INFO  - Open home page - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 21:55:42 INFO  - invalid selector: Unable to locate an element with the xpath expression //*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[5)/td[2) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[5)/td[2)' is not a valid XPath expression.
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 8524d8d1c2ed4fecc35e69523390fab4
+*** Element info: {Using=xpath, value=//*[@class= 'ui-jqgrid-bdiv']/div/table/tbody/tr[5)/td[2)}
+2019-10-15 21:55:42 INFO  - Total Time taken in(seconds):38
+2019-10-15 21:55:42 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-15 21:55:43 INFO  - TestResults
+2019-10-15 21:55:44 INFO  - Test has ended - closing browser: chrome
+2019-10-15 21:55:44 INFO  - Closing Browsers
+2019-10-15 21:55:45 INFO  - Default suite suite finished at Tue Oct 15 21:55:45 IST 2019
+2019-10-15 21:55:46 INFO  - Comparison sheet written successfully
+2019-10-15 21:55:46 INFO  - Data to excel written successfully
+2019-10-15 21:55:46 INFO  - Test process has ended
+2019-10-15 21:55:46 INFO  - +=============Database started=============+
+2019-10-15 21:55:46 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 21:55:46 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 21:55:46 INFO  - +==========================================+
+
+2019-10-15 21:55:46 INFO  - Comparison sheet written successfully
+2019-10-15 21:55:46 INFO  - Data to excel written successfully
+2019-10-15 21:55:46 INFO  - History File created successfully
+2019-10-15 22:05:53 INFO  - 
+============================================================================================================================
+2019-10-15 22:05:53 INFO  - Default suite suite started at Tue Oct 15 22:05:53 IST 2019
+2019-10-15 22:05:53 INFO  - Suite Browser: chrome
+2019-10-15 22:05:54 INFO  - +=============Database started=============+
+2019-10-15 22:05:54 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 22:05:54 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 22:05:54 INFO  - +==========================================+
+
+2019-10-15 22:05:54 INFO  - Test is started with browser: chrome
+2019-10-15 22:06:05 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 22:06:05 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 22:06:05 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 22:06:05 INFO  - Test description: 
+2019-10-15 22:06:05 INFO  - Open home page
+2019-10-15 22:06:05 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 22:06:13 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 22:06:13 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 22:06:13 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 22:06:15 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 22:06:16 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 22:06:24 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 22:06:24 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 22:06:24 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 22:06:26 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 22:06:27 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 22:06:27 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 22:06:28 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 22:06:30 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 22:06:30 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 22:06:31 INFO  - Select dropdown by text : FY 2024 - By.id: FISCAL_YEAR
+2019-10-15 22:06:31 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 22:06:33 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 22:06:33 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 22:06:34 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 22:06:34 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 22:06:35 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 22:06:35 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 22:06:40 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 22:06:40 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 22:06:44 INFO  - Total Time taken in(seconds):39
+2019-10-15 22:06:44 INFO  - TestResults
+2019-10-15 22:06:45 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 22:06:45 INFO  - Test has ended - closing browser: chrome
+2019-10-15 22:06:45 INFO  - Closing Browsers
+2019-10-15 22:06:46 INFO  - Default suite suite finished at Tue Oct 15 22:06:46 IST 2019
+2019-10-15 22:06:47 INFO  - Comparison sheet written successfully
+2019-10-15 22:06:47 INFO  - Data to excel written successfully
+2019-10-15 22:06:47 INFO  - Test process has ended
+2019-10-15 22:06:47 INFO  - +=============Database started=============+
+2019-10-15 22:06:47 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 22:06:47 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 22:06:47 INFO  - +==========================================+
+
+2019-10-15 22:06:47 INFO  - Comparison sheet written successfully
+2019-10-15 22:06:47 INFO  - Data to excel written successfully
+2019-10-15 22:06:47 INFO  - History File created successfully
+2019-10-15 22:14:50 INFO  - 
+============================================================================================================================
+2019-10-15 22:14:50 INFO  - Default suite suite started at Tue Oct 15 22:14:50 IST 2019
+2019-10-15 22:14:50 INFO  - Suite Browser: chrome
+2019-10-15 22:14:51 INFO  - +=============Database started=============+
+2019-10-15 22:14:51 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 22:14:51 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 22:14:51 INFO  - +==========================================+
+
+2019-10-15 22:14:51 INFO  - Test is started with browser: chrome
+2019-10-15 22:15:02 INFO  - No data found with given key-> SMITHS_TC_KPIMaster
+2019-10-15 22:15:02 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-15 22:15:02 INFO  - Test Started: SMITHS_TC_KPIMaster
+2019-10-15 22:15:02 INFO  - Test description: 
+2019-10-15 22:15:03 INFO  - Open home page
+2019-10-15 22:15:03 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-15 22:15:09 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-15 22:15:09 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-15 22:15:09 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-15 22:15:11 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-15 22:15:12 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-15 22:15:22 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 22:15:23 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-15 22:15:23 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-15 22:15:24 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-15 22:15:25 INFO  - Click: By.xpath: //span[contains(.,'Kpi Master')]
+2019-10-15 22:15:25 INFO  - Click: By.id: add_btn_GSC_VW_KPI_MASTER
+2019-10-15 22:15:27 INFO  - Click: By.id: KPI_DETAIL_ID
+2019-10-15 22:15:28 INFO  - Select dropdown by text : Sales Revenue - By.id: KPI_DETAIL_ID
+2019-10-15 22:15:28 INFO  - Click: By.id: FISCAL_YEAR
+2019-10-15 22:15:29 INFO  - Select dropdown by text : FY 2024 - By.id: FISCAL_YEAR
+2019-10-15 22:15:30 INFO  - Click: By.id: FISCAL_PERIOD
+2019-10-15 22:15:31 INFO  - Select dropdown by text : 04 - By.id: FISCAL_PERIOD
+2019-10-15 22:15:31 INFO  - Click: By.id: KPI_SITE_ID
+2019-10-15 22:15:32 INFO  - Select dropdown by text : KPI_Sitedetails_Enhops1 - By.id: KPI_SITE_ID
+2019-10-15 22:15:33 INFO  - Input Text: 745 - By.id: KPI_VALUE
+2019-10-15 22:15:33 INFO  - Input Text: 002 - By.id: KPI_MASTER_ID
+2019-10-15 22:15:33 INFO  - Click: By.xpath: (//*[@class= 'btn btn-sm btn-default btn-outline'])[1]
+2019-10-15 22:15:38 INFO  - Input Text: 745 - By.id: global_search_txt_GSC_VW_KPI_MASTER
+2019-10-15 22:15:39 INFO  - Click: By.id: global_search_btn_GSC_VW_KPI_MASTER
+2019-10-15 22:15:42 INFO  - Total Time taken in(seconds):40
+2019-10-15 22:15:43 INFO  - TestResults
+2019-10-15 22:15:44 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-15 22:15:44 INFO  - Test has ended - closing browser: chrome
+2019-10-15 22:15:44 INFO  - Closing Browsers
+2019-10-15 22:15:45 INFO  - Default suite suite finished at Tue Oct 15 22:15:45 IST 2019
+2019-10-15 22:15:46 INFO  - Comparison sheet written successfully
+2019-10-15 22:15:46 INFO  - Data to excel written successfully
+2019-10-15 22:15:46 INFO  - Test process has ended
+2019-10-15 22:15:46 INFO  - +=============Database started=============+
+2019-10-15 22:15:46 INFO  - Database driver name: SQLiteJDBC
+2019-10-15 22:15:46 INFO  - Product name SQLite, Version 3.8.11
+2019-10-15 22:15:46 INFO  - +==========================================+
+
+2019-10-15 22:15:46 INFO  - Comparison sheet written successfully
+2019-10-15 22:15:46 INFO  - Data to excel written successfully
+2019-10-15 22:15:46 INFO  - History File created successfully
+2019-10-16 14:05:27 INFO  - 
+============================================================================================================================
+2019-10-16 14:05:27 INFO  - Default suite suite started at Wed Oct 16 14:05:27 IST 2019
+2019-10-16 14:05:27 INFO  - Suite Browser: chrome
+2019-10-16 14:05:29 INFO  - +=============Database started=============+
+2019-10-16 14:05:29 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:05:29 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:05:29 INFO  - +==========================================+
+
+2019-10-16 14:05:29 INFO  - Test is started with browser: chrome
+2019-10-16 14:05:41 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-16 14:05:41 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 14:05:41 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-16 14:05:41 INFO  - Test description: 
+2019-10-16 14:05:41 INFO  - Open home page
+2019-10-16 14:05:41 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 14:05:49 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 14:05:50 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 14:05:50 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 14:05:51 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 14:05:52 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 14:06:02 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:06:02 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:06:02 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 14:06:03 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 14:06:05 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-16 14:06:06 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-16 14:06:07 INFO  - Input Text: KPI_Sitedetails_Enhops3 - By.id: SITE_NAME
+2019-10-16 14:06:08 INFO  - Input Text: 003 - By.id: SITE_RANK
+2019-10-16 14:06:08 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-16 14:06:11 INFO  - Input Text: KPI_Sitedetails_Enhops3 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-16 14:06:11 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-16 14:06:13 INFO  - Total Time taken in(seconds):31
+2019-10-16 14:06:13 INFO  - TestResults
+2019-10-16 14:06:14 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-16 14:06:14 INFO  - Test has ended - closing browser: chrome
+2019-10-16 14:06:14 INFO  - Closing Browsers
+2019-10-16 14:06:15 INFO  - Default suite suite finished at Wed Oct 16 14:06:15 IST 2019
+2019-10-16 14:06:16 INFO  - Comparison sheet written successfully
+2019-10-16 14:06:16 INFO  - Data to excel written successfully
+2019-10-16 14:06:17 INFO  - Test process has ended
+2019-10-16 14:06:17 INFO  - +=============Database started=============+
+2019-10-16 14:06:17 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:06:17 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:06:17 INFO  - +==========================================+
+
+2019-10-16 14:06:17 INFO  - Comparison sheet written successfully
+2019-10-16 14:06:17 INFO  - Data to excel written successfully
+2019-10-16 14:06:17 INFO  - History File created successfully
+2019-10-16 14:10:45 INFO  - 
+============================================================================================================================
+2019-10-16 14:10:45 INFO  - Default suite suite started at Wed Oct 16 14:10:45 IST 2019
+2019-10-16 14:10:45 INFO  - Suite Browser: chrome
+2019-10-16 14:10:46 INFO  - +=============Database started=============+
+2019-10-16 14:10:46 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:10:46 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:10:46 INFO  - +==========================================+
+
+2019-10-16 14:10:46 INFO  - Test is started with browser: chrome
+2019-10-16 14:10:57 INFO  - No data found with given key-> SMITHS_TC_SITEADD
+2019-10-16 14:10:57 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 14:10:57 INFO  - Test Started: SMITHS_TC_SITEADD
+2019-10-16 14:10:57 INFO  - Test description: 
+2019-10-16 14:10:58 INFO  - Open home page
+2019-10-16 14:10:58 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 14:11:05 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 14:11:06 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 14:11:06 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 14:11:07 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 14:11:08 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 14:11:18 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:11:18 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:11:18 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 14:11:19 INFO  - Hover Element: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 14:11:20 INFO  - Click: By.xpath: //span[contains(.,'Site Details')]
+2019-10-16 14:11:21 INFO  - Click: By.id: add_btn_GSC_VW_DIM_SITE_NAME
+2019-10-16 14:11:22 INFO  - Input Text: KPI_Sitedetails_Enhops4 - By.id: SITE_NAME
+2019-10-16 14:11:23 INFO  - Input Text: 004 - By.id: SITE_RANK
+2019-10-16 14:11:23 INFO  - Click: By.xpath: //*[@id='sData']
+2019-10-16 14:11:26 INFO  - Input Text: KPI_Sitedetails_Enhops4 - By.xpath: //*[@id='global_search_txt_GSC_VW_DIM_SITE_NAME']
+2019-10-16 14:11:26 INFO  - Click: By.id: global_search_btn_GSC_VW_DIM_SITE_NAME
+2019-10-16 14:11:28 INFO  - Total Time taken in(seconds):30
+2019-10-16 14:11:28 INFO  - TestResults
+2019-10-16 14:11:29 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-16 14:11:29 INFO  - Test has ended - closing browser: chrome
+2019-10-16 14:11:29 INFO  - Closing Browsers
+2019-10-16 14:11:30 INFO  - Default suite suite finished at Wed Oct 16 14:11:30 IST 2019
+2019-10-16 14:11:31 INFO  - Comparison sheet written successfully
+2019-10-16 14:11:31 INFO  - Data to excel written successfully
+2019-10-16 14:11:31 INFO  - Test process has ended
+2019-10-16 14:11:31 INFO  - +=============Database started=============+
+2019-10-16 14:11:31 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:11:31 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:11:31 INFO  - +==========================================+
+
+2019-10-16 14:11:31 INFO  - Comparison sheet written successfully
+2019-10-16 14:11:31 INFO  - Data to excel written successfully
+2019-10-16 14:11:31 INFO  - History File created successfully
+2019-10-16 14:47:07 INFO  - 
+============================================================================================================================
+2019-10-16 14:47:07 INFO  - Default suite suite started at Wed Oct 16 14:47:07 IST 2019
+2019-10-16 14:47:07 INFO  - Suite Browser: chrome
+2019-10-16 14:47:08 INFO  - +=============Database started=============+
+2019-10-16 14:47:08 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:47:08 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:47:08 INFO  - +==========================================+
+
+2019-10-16 14:47:08 INFO  - Test is started with browser: chrome
+2019-10-16 14:47:19 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:47:19 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 14:47:19 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:47:19 INFO  - Test description: 
+2019-10-16 14:47:19 INFO  - Open home page
+2019-10-16 14:47:19 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 14:47:27 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 14:47:28 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 14:47:28 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 14:47:30 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 14:47:31 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 14:47:40 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:47:40 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:47:40 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 14:47:41 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 14:47:42 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 14:47:43 INFO  - Click: By.id: fu_menuId
+2019-10-16 14:47:45 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 14:47:46 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 14:47:49 INFO  - Open home page - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 14:47:49 INFO  - unknown error: cannot focus element
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 3894416967ccc24517d234d263559afc
+2019-10-16 14:47:49 INFO  - Total Time taken in(seconds):29
+2019-10-16 14:47:49 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 14:47:49 INFO  - TestResults
+2019-10-16 14:47:51 INFO  - Test has ended - closing browser: chrome
+2019-10-16 14:47:51 INFO  - Closing Browsers
+2019-10-16 14:47:52 INFO  - Default suite suite finished at Wed Oct 16 14:47:52 IST 2019
+2019-10-16 14:47:53 INFO  - Comparison sheet written successfully
+2019-10-16 14:47:53 INFO  - Data to excel written successfully
+2019-10-16 14:47:53 INFO  - Test process has ended
+2019-10-16 14:47:53 INFO  - +=============Database started=============+
+2019-10-16 14:47:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:47:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:47:53 INFO  - +==========================================+
+
+2019-10-16 14:47:54 INFO  - Comparison sheet written successfully
+2019-10-16 14:47:54 INFO  - Data to excel written successfully
+2019-10-16 14:47:54 INFO  - History File created successfully
+2019-10-16 14:51:01 INFO  - 
+============================================================================================================================
+2019-10-16 14:51:01 INFO  - Default suite suite started at Wed Oct 16 14:51:01 IST 2019
+2019-10-16 14:51:01 INFO  - Suite Browser: chrome
+2019-10-16 14:51:02 INFO  - +=============Database started=============+
+2019-10-16 14:51:02 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:51:02 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:51:02 INFO  - +==========================================+
+
+2019-10-16 14:51:02 INFO  - Test is started with browser: chrome
+2019-10-16 14:51:14 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:51:14 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 14:51:14 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:51:14 INFO  - Test description: 
+2019-10-16 14:51:14 INFO  - Open home page
+2019-10-16 14:51:14 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 14:51:20 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 14:51:21 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 14:51:21 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 14:51:23 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 14:51:24 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 14:51:33 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:51:33 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 14:51:33 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 14:51:34 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 14:51:35 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 14:51:36 INFO  - Click: By.id: fu_menuId
+2019-10-16 14:51:38 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 14:51:40 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 14:51:42 INFO  - Open home page - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 14:51:42 INFO  - unknown error: cannot focus element
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: eddcd49420cbd91a7e7d6886b7b8e557
+2019-10-16 14:51:42 INFO  - Total Time taken in(seconds):28
+2019-10-16 14:51:42 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 14:51:43 INFO  - TestResults
+2019-10-16 14:51:45 INFO  - Test has ended - closing browser: chrome
+2019-10-16 14:51:45 INFO  - Closing Browsers
+2019-10-16 14:51:46 INFO  - Default suite suite finished at Wed Oct 16 14:51:46 IST 2019
+2019-10-16 14:51:47 INFO  - Comparison sheet written successfully
+2019-10-16 14:51:47 INFO  - Data to excel written successfully
+2019-10-16 14:51:47 INFO  - Test process has ended
+2019-10-16 14:51:47 INFO  - +=============Database started=============+
+2019-10-16 14:51:47 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:51:47 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:51:47 INFO  - +==========================================+
+
+2019-10-16 14:51:47 INFO  - Comparison sheet written successfully
+2019-10-16 14:51:47 INFO  - Data to excel written successfully
+2019-10-16 14:51:47 INFO  - History File created successfully
+2019-10-16 14:59:40 INFO  - 
+============================================================================================================================
+2019-10-16 14:59:40 INFO  - Default suite suite started at Wed Oct 16 14:59:40 IST 2019
+2019-10-16 14:59:40 INFO  - Suite Browser: chrome
+2019-10-16 14:59:41 INFO  - +=============Database started=============+
+2019-10-16 14:59:41 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 14:59:41 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 14:59:41 INFO  - +==========================================+
+
+2019-10-16 14:59:41 INFO  - Test is started with browser: chrome
+2019-10-16 14:59:52 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:59:52 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 14:59:52 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 14:59:52 INFO  - Test description: 
+2019-10-16 14:59:52 INFO  - Open home page
+2019-10-16 14:59:52 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:00:01 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:00:01 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:00:01 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:00:03 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:00:04 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:00:13 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:00:13 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:00:13 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:00:14 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:00:15 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:00:16 INFO  - Click: By.id: fu_menuId
+2019-10-16 15:00:18 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 15:00:20 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]/div/input
+2019-10-16 15:30:58 INFO  - 
+============================================================================================================================
+2019-10-16 15:30:58 INFO  - Default suite suite started at Wed Oct 16 15:30:58 IST 2019
+2019-10-16 15:30:58 INFO  - Suite Browser: chrome
+2019-10-16 15:30:59 INFO  - +=============Database started=============+
+2019-10-16 15:30:59 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:30:59 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:30:59 INFO  - +==========================================+
+
+2019-10-16 15:30:59 INFO  - Test is started with browser: chrome
+2019-10-16 15:31:11 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:31:11 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 15:31:11 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:31:11 INFO  - Test description: 
+2019-10-16 15:31:11 INFO  - Open home page
+2019-10-16 15:31:11 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:31:20 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:31:21 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:31:21 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:31:22 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:31:23 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:31:34 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:31:34 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:31:34 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:31:34 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:31:34 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:31:35 INFO  - Open home page - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:31:35 INFO  - unknown error: Element <span class="title">...</span> is not clickable at point (24, 158). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 13500; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.0601394; cursor: wait; position: absolute;"></div>
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 7065296d4502f86a3f29690c3fc7b113
+2019-10-16 15:31:35 INFO  - Total Time taken in(seconds):24
+2019-10-16 15:31:35 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 15:31:36 INFO  - TestResults
+2019-10-16 15:31:37 INFO  - Test has ended - closing browser: chrome
+2019-10-16 15:31:37 INFO  - Closing Browsers
+2019-10-16 15:31:38 INFO  - Default suite suite finished at Wed Oct 16 15:31:38 IST 2019
+2019-10-16 15:31:39 INFO  - Comparison sheet written successfully
+2019-10-16 15:31:39 INFO  - Data to excel written successfully
+2019-10-16 15:31:39 INFO  - Test process has ended
+2019-10-16 15:31:39 INFO  - +=============Database started=============+
+2019-10-16 15:31:39 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:31:39 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:31:39 INFO  - +==========================================+
+
+2019-10-16 15:31:39 INFO  - Comparison sheet written successfully
+2019-10-16 15:31:39 INFO  - Data to excel written successfully
+2019-10-16 15:31:39 INFO  - History File created successfully
+2019-10-16 15:32:30 INFO  - 
+============================================================================================================================
+2019-10-16 15:32:30 INFO  - Default suite suite started at Wed Oct 16 15:32:30 IST 2019
+2019-10-16 15:32:30 INFO  - Suite Browser: chrome
+2019-10-16 15:32:31 INFO  - +=============Database started=============+
+2019-10-16 15:32:31 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:32:31 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:32:31 INFO  - +==========================================+
+
+2019-10-16 15:32:31 INFO  - Test is started with browser: chrome
+2019-10-16 15:32:42 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:32:42 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 15:32:42 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:32:42 INFO  - Test description: 
+2019-10-16 15:32:42 INFO  - Open home page
+2019-10-16 15:32:42 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:32:50 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:32:51 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:32:51 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:32:52 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:32:53 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:33:03 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:33:03 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:33:03 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:33:04 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:33:06 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:33:06 INFO  - Click: By.id: fu_menuId
+2019-10-16 15:33:06 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 15:33:08 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 15:33:40 INFO  - Total Time taken in(seconds):58
+2019-10-16 15:33:41 INFO  - TestResults
+2019-10-16 15:33:43 INFO  - **********TEST FINISHED-> -PASS**********
+2019-10-16 15:33:43 INFO  - Test has ended - closing browser: chrome
+2019-10-16 15:33:43 INFO  - Closing Browsers
+2019-10-16 15:33:44 INFO  - Default suite suite finished at Wed Oct 16 15:33:44 IST 2019
+2019-10-16 15:33:45 INFO  - Comparison sheet written successfully
+2019-10-16 15:33:45 INFO  - Data to excel written successfully
+2019-10-16 15:33:45 INFO  - Test process has ended
+2019-10-16 15:33:45 INFO  - +=============Database started=============+
+2019-10-16 15:33:45 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:33:45 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:33:45 INFO  - +==========================================+
+
+2019-10-16 15:33:45 INFO  - Comparison sheet written successfully
+2019-10-16 15:33:45 INFO  - Data to excel written successfully
+2019-10-16 15:33:45 INFO  - History File created successfully
+2019-10-16 15:44:18 INFO  - 
+============================================================================================================================
+2019-10-16 15:44:18 INFO  - Default suite suite started at Wed Oct 16 15:44:18 IST 2019
+2019-10-16 15:44:18 INFO  - Suite Browser: chrome
+2019-10-16 15:44:20 INFO  - +=============Database started=============+
+2019-10-16 15:44:20 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:44:20 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:44:20 INFO  - +==========================================+
+
+2019-10-16 15:44:20 INFO  - Test is started with browser: chrome
+2019-10-16 15:44:32 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:44:32 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 15:44:32 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:44:32 INFO  - Test description: 
+2019-10-16 15:44:32 INFO  - Open home page
+2019-10-16 15:44:32 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:44:40 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:44:41 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:44:41 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:44:42 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:44:43 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:44:54 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:44:54 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:44:54 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:44:55 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:44:57 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:44:57 INFO  - Click: By.id: fu_menuId
+2019-10-16 15:44:58 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 15:45:00 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 15:45:32 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]/a
+2019-10-16 15:45:35 INFO  - Click: By.xpath: //*[@class= 'btn-group navbar-btn sw-btn-group pull-right']/button[2]
+2019-10-16 15:45:35 INFO  - Total Time taken in(seconds):63
+2019-10-16 15:45:35 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 15:45:36 INFO  - TestResults
+2019-10-16 15:45:37 INFO  - Test has ended - closing browser: chrome
+2019-10-16 15:45:37 INFO  - Closing Browsers
+2019-10-16 15:45:38 INFO  - Default suite suite finished at Wed Oct 16 15:45:38 IST 2019
+2019-10-16 15:45:39 INFO  - Comparison sheet written successfully
+2019-10-16 15:45:39 INFO  - Data to excel written successfully
+2019-10-16 15:45:39 INFO  - Test process has ended
+2019-10-16 15:45:39 INFO  - +=============Database started=============+
+2019-10-16 15:45:39 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:45:39 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:45:39 INFO  - +==========================================+
+
+2019-10-16 15:45:39 INFO  - Comparison sheet written successfully
+2019-10-16 15:45:39 INFO  - Data to excel written successfully
+2019-10-16 15:45:40 INFO  - History File created successfully
+2019-10-16 15:52:35 INFO  - 
+============================================================================================================================
+2019-10-16 15:52:35 INFO  - Default suite suite started at Wed Oct 16 15:52:35 IST 2019
+2019-10-16 15:52:35 INFO  - Suite Browser: chrome
+2019-10-16 15:52:36 INFO  - +=============Database started=============+
+2019-10-16 15:52:36 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:52:36 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:52:36 INFO  - +==========================================+
+
+2019-10-16 15:52:36 INFO  - Test is started with browser: chrome
+2019-10-16 15:52:48 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:52:48 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 15:52:48 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:52:48 INFO  - Test description: 
+2019-10-16 15:52:48 INFO  - Open home page
+2019-10-16 15:52:48 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:52:56 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:52:56 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:52:57 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:52:58 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:52:59 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:53:10 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:53:10 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:53:10 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:53:11 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:53:12 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:53:13 INFO  - Open home page - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:53:13 INFO  - unknown error: Element <span class="title">...</span> is not clickable at point (24, 158). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 13500; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.1; cursor: wait; position: absolute;"></div>
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-5G4LIOS', ip: '192.168.0.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\gurram\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.90, webStorageEnabled: true}
+Session ID: 8146587a5d250458131679e166936a7a
+2019-10-16 15:53:13 INFO  - Total Time taken in(seconds):24
+2019-10-16 15:53:13 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 15:53:13 INFO  - TestResults
+2019-10-16 15:53:15 INFO  - Test has ended - closing browser: chrome
+2019-10-16 15:53:15 INFO  - Closing Browsers
+2019-10-16 15:53:16 INFO  - Default suite suite finished at Wed Oct 16 15:53:16 IST 2019
+2019-10-16 15:53:17 INFO  - Comparison sheet written successfully
+2019-10-16 15:53:17 INFO  - Data to excel written successfully
+2019-10-16 15:53:18 INFO  - Test process has ended
+2019-10-16 15:53:18 INFO  - +=============Database started=============+
+2019-10-16 15:53:18 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:53:18 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:53:18 INFO  - +==========================================+
+
+2019-10-16 15:53:18 INFO  - Comparison sheet written successfully
+2019-10-16 15:53:18 INFO  - Data to excel written successfully
+2019-10-16 15:53:18 INFO  - History File created successfully
+2019-10-16 15:53:52 INFO  - 
+============================================================================================================================
+2019-10-16 15:53:52 INFO  - Default suite suite started at Wed Oct 16 15:53:52 IST 2019
+2019-10-16 15:53:52 INFO  - Suite Browser: chrome
+2019-10-16 15:53:53 INFO  - +=============Database started=============+
+2019-10-16 15:53:53 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:53:53 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:53:53 INFO  - +==========================================+
+
+2019-10-16 15:53:53 INFO  - Test is started with browser: chrome
+2019-10-16 15:54:04 INFO  - No data found with given key-> SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:54:04 INFO  - 
+----------------------------------------------------------------------------------------------------------------------------
+2019-10-16 15:54:04 INFO  - Test Started: SMITHS_TC_SiteDetsils_FileUpload
+2019-10-16 15:54:04 INFO  - Test description: 
+2019-10-16 15:54:04 INFO  - Open home page
+2019-10-16 15:54:04 INFO  - Navigate to: http://smiths-dcs-dev-app.azurewebsites.net
+2019-10-16 15:54:12 INFO  - Input Text: stiyyagura@azureresourcekagool.onmicrosoft.com - By.xpath: //input[@type='email']
+2019-10-16 15:54:13 INFO  - Click: By.xpath: //input[@value='Next']
+2019-10-16 15:54:13 INFO  - Input Text: Enhops@123 - By.xpath: //input[@type='password']
+2019-10-16 15:54:14 INFO  - Click: By.xpath: //input[@value='Sign in']
+2019-10-16 15:54:15 INFO  - Click: By.xpath: //input[@value='No']
+2019-10-16 15:54:25 INFO  - Get Element text: By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:54:25 INFO  - Verify Text Contains: Surya Kiran Reddy Tiyyagura - By.xpath: //span[contains(@class, 'username ')]
+2019-10-16 15:54:25 INFO  - Verified text expected "Surya Kiran Reddy Tiyyagura" actual "Surya Kiran Reddy Tiyyagura" 
+2019-10-16 15:54:26 INFO  - Click: By.xpath: //*[@id="menu"]/li[3]/a/i
+2019-10-16 15:54:28 INFO  - Click: By.xpath: //span[contains(.,'File Upload')]
+2019-10-16 15:54:28 INFO  - Click: By.id: fu_menuId
+2019-10-16 15:54:29 INFO  - Select dropdown by text : Site Details - By.id: fu_menuId
+2019-10-16 15:54:31 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]
+2019-10-16 15:55:03 INFO  - Click: By.xpath: (//*[@class= 'input-group-btn'])[2]/a
+2019-10-16 15:55:10 INFO  - Click: By.xpath: //*[@class= 'btn-group navbar-btn sw-btn-group pull-right']/button[2]
+2019-10-16 15:55:10 INFO  - Total Time taken in(seconds):66
+2019-10-16 15:55:10 INFO  - **********TEST FINISHED->  - FAILED**********
+2019-10-16 15:55:10 INFO  - TestResults
+2019-10-16 15:55:12 INFO  - Test has ended - closing browser: chrome
+2019-10-16 15:55:12 INFO  - Closing Browsers
+2019-10-16 15:55:13 INFO  - Default suite suite finished at Wed Oct 16 15:55:13 IST 2019
+2019-10-16 15:55:14 INFO  - Comparison sheet written successfully
+2019-10-16 15:55:14 INFO  - Data to excel written successfully
+2019-10-16 15:55:14 INFO  - Test process has ended
+2019-10-16 15:55:14 INFO  - +=============Database started=============+
+2019-10-16 15:55:14 INFO  - Database driver name: SQLiteJDBC
+2019-10-16 15:55:14 INFO  - Product name SQLite, Version 3.8.11
+2019-10-16 15:55:14 INFO  - +==========================================+
+
+2019-10-16 15:55:14 INFO  - Comparison sheet written successfully
+2019-10-16 15:55:14 INFO  - Data to excel written successfully
+2019-10-16 15:55:14 INFO  - History File created successfully
