@@ -44,6 +44,7 @@ public class SMITHS_TC_Plative_Saleslogin extends KeywordUtil {
 			logStep(stepInfo);
 			HomePage.openHomePage();
 			Plative_Salesforce_Login.salesforce_Login(email, password);
+			System.out.println("Login success");
 			
 			
 			
